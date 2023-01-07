@@ -23,3 +23,7 @@ All of my SQL practice and projects will be located here.
     - Python Library breakdowns
     - Miscellaneous apps and programs
 </details>
+
+
+### <a href="https://github.com/CameronCSS/PersonalProjects">Back to Index</a>
+
