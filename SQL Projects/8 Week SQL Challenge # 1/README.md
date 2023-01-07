@@ -11,3 +11,10 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 ----
 #### Questions
+
+
+| Contact Method | Link |
+| --- | --- |
+| Email | CameronSeamons@gmail.com |
+| LinkedIn | https://www.linkedin.com/in/cameron-css/|
+| Twitter | https://twitter.com/Cameron_CSS |
