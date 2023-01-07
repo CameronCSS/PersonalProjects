@@ -29,7 +29,7 @@ This repository holds all of my Personal projects I am currently working on or h
 ## Currently working on
 
 - 📝 I’m currently working on a report about <a href = "https://github.com/CameronCSS/PersonalProjects/tree/main/Data%20Analysis/SLC%20Homless%20Data"> **SLC Homeless numbers </a> after shutting down Homeless Centers**
-
+- 👉 Finishing up Week #1 of the <a href ="https://github.com/CameronCSS/PersonalProjects/tree/main/SQL%20Projects/8%20Week%20SQL%20Challenge%20%23%201"> 8 Week SQL Challenge </a> with SQL query answer breakdowns.
 - ⚡ Expanding my knowledge of Python and pandas library**
   
     
