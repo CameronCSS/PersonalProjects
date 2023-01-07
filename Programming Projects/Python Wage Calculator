@@ -1,9 +1,3 @@
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-
 # This is Simple Python code that calculates your Wage 
 # The Remaining balance will be shown after you Enter wage, hours, and Bills and Hit calculate 
 
