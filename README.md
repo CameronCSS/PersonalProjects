@@ -8,8 +8,9 @@ This repository holds all of my Personal projects I am currently working on or h
 **1-<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/SQL%20Projects" target="new"> SQL Projects/Practice</a>**
   - This will include:
     - SQL training
+    - Case Studies
     - Practice code from Interview situations
-    - SQL code I was messing around with and wanted to record so I could reference it later
+    - SQL code I want to save for future reference
     
 **2-<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Data%20Analysis" target="new"> Data Analysis / Visuals</a>**
   - This will include:
