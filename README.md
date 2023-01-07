@@ -11,19 +11,19 @@ This repository holds all of my Personal projects I am currently working on or h
     - Practice code from Interview situations
     - SQL code I was messing around with and wanted to record so I could reference it later
     
-**2- Power BI / Tableau Visuals**
+**2- Data Analysis / Visuals**
   - This will include:
     - Power BI Reports
     - Tableau Reports
     - Visual Insights to personal data projects
+    - Full analysis and reports on data projects
     - Links to finished Dashboards
     
-**3- Data Analysis Projects**
+**3- Programming Projects**
   - This will include:
-    - Full analysis and reports on data projects
-    - Visual Insights and reports
-    - Miscellaneous Data work
-    - Other data that doesnt fit anywhere else
+    - Python code practice
+    - Python Library breakdowns
+    - Miscellaneous apps and programs
     
     
 ## Currently working on
