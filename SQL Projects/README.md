@@ -10,16 +10,16 @@ All of my SQL practice and projects will be located here.
   <summary>View My Other Projects</summary>
     
 **<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Data%20Analysis" target="new">Data Analysis / Visuals</a>**
-    - Power BI Reports
-    - Tableau Reports
-    - Visual Insights to personal data projects
-    - Full analysis and reports on data projects
-    - Links to finished Dashboards
+   - Power BI Reports
+   - Tableau Reports
+   - Visual Insights to personal data projects
+   - Full analysis and reports on data projects
+   - Links to finished Dashboards
     
 **<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Programming%20Projects" target="new">Programming Projects</a>**
-    - Python code practice
-    - Python Library breakdowns
-    - Miscellaneous apps and programs
+   - Python code practice
+   - Python Library breakdowns
+   - Miscellaneous apps and programs
 </details>
 
 
