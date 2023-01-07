@@ -1,5 +1,7 @@
 # Programming Personal Projects
 
+All of my coding practice and projects will be located here.
+
 <details open>
   <summary>View Projects</summary>
 <a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Programming%20Projects/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
