@@ -1,13 +1,18 @@
 # Programming Personal Projects
-- Programming languages
-- Python code practice
-- Python Library breakdowns
-- And all other Miscellaneous apps and programs I code will be in this folder.
 
 <details open>
-  <summary>Programming Projects</summary>
+  <summary>View Projects</summary>
 <a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Programming%20Projects/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
 </details>
+
+## Experience
+
+  - Google data analytics professional certificate (*R) 
+  - Completed Kaggle 'Intro to Programming' Course
+  - C# app building in High School
+  - Built out a few simple programs in Python through Self Learning
+  
+
 
 <details>
   <summary>View My Other Projects</summary>
