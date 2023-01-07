@@ -1,18 +1,20 @@
-```diff
-
-
-+ This is Simple Python code that calculates your Wage --
-+ The Remaining balance will be shown after you Enter wage, hours, and Bills and Hit calculate --
-
-+ This simple app uses the PyQt5 Library to build a UI --
-
-+ On the First tab you will enter your Wage and Hours worked --
-+ You Then Hit Calculate to calculate your check amount --
-
-+ On the second tab you will hit "Add Bill" and enter a bill amount. --
-+ The Remaining Balance will be updated live as oyu enter Bills --
-
+```python
+s = "Python syntax highlighting"
+print s
 ```
+
+
+# This is Simple Python code that calculates your Wage 
+# The Remaining balance will be shown after you Enter wage, hours, and Bills and Hit calculate 
+
+# This simple app uses the PyQt5 Library to build a UI 
+
+# On the First tab you will enter your Wage and Hours worked 
+# You Then Hit Calculate to calculate your check amount 
+
+# On the second tab you will hit "Add Bill" and enter a bill amount. 
+# The Remaining Balance will be updated live as oyu enter Bills 
+
 
 import sys
 from PyQt5.QtCore import *
