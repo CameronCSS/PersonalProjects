@@ -1,4 +1,4 @@
-# Data Analysis / Visuals
+# Data Analysis / Visuals Projects
    - Power BI Reports
    - Tableau Reports
    - Visual Insights to personal data projects
