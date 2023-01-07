@@ -14,15 +14,15 @@
   <summary>View My Other Projects</summary>
     
 **-<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/SQL%20Projects" target="new"> SQL Projects/Practice</a>**
-    - SQL training
-    - Practice code from Interview situations
-    - SQL code I was messing around with and wanted to record so I could reference it later
+   - SQL training
+   - Practice code from Interview situations
+   - SQL code I was messing around with and wanted to record so I could reference it later
     
     
 **-<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Programming%20Projects" target="new"> Programming Projects</a>**
-    - Python code practice
-    - Python Library breakdowns
-    - Miscellaneous apps and programs
+   - Python code practice
+   - Python Library breakdowns
+   - Miscellaneous apps and programs
     
 </details>
 
