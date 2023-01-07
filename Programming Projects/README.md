@@ -6,7 +6,7 @@
 
 <details open>
   <summary>Programming Projects</summary>
-<a href="https://github.com/CameronCSS/PersonalProjects/blob/main/Programming%20Projects/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
+<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Programming%20Projects/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
 </details>
 
 <details>
