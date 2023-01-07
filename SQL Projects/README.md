@@ -1,4 +1,4 @@
-# SQL Project Examples
+# SQL Personal Projects
 All of my SQL practice and projects will be located here.
 
 <details open>
