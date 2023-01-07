@@ -6,6 +6,13 @@ All of my SQL practice and projects will be located here.
 <a href="https://github.com/CameronCSS/PersonalProjects/blob/main/SQL%20Projects/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
 </details>
 
+## Experience
+
+  - Google data analytics professional certificate
+  - Finished the SQLBolt - Learn SQL Training
+  - Completed Khan Academy - Intro to SQL Course
+  - Case Study 'Data with Danny' 8 Week SQL Challenge
+
 <details>
   <summary>View My Other Projects</summary>
     
