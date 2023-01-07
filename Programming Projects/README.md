@@ -1,4 +1,4 @@
-# Programming Projects
+# Programming Personal Projects
 - Programming languages
 - Python code practice
 - Python Library breakdowns
