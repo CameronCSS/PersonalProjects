@@ -6,14 +6,14 @@ This repository holds all of my Personal projects I am currently working on or h
 **Projects will be binned into Three categories. _(As I bulild out this repository the data may change)_**
 
 **1-<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/SQL%20Projects" target="new"> SQL Projects/Practice</a>**
-  - This will include:
+  - Examples:
     - SQL training
     - Case Studies
     - Practice code from Interview situations
     - SQL code I want to save for future reference
     
 **2-<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Data%20Analysis" target="new"> Data Analysis / Visuals</a>**
-  - This will include:
+  - Examples:
     - Power BI Reports
     - Tableau Reports
     - Visual Insights to personal data projects
@@ -21,7 +21,7 @@ This repository holds all of my Personal projects I am currently working on or h
     - Links to finished Dashboards
     
 **3-<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Programming%20Projects" target="new"> Programming Projects</a>**
-  - This will include:
+  - Examples:
     - Python code practice
     - Python Library breakdowns
     - Miscellaneous apps and programs
