@@ -5,22 +5,36 @@ This repository holds all of my Personal projects I am currently working on or h
 
 **Projects will be binned into Three categories. _(As I bulild out this repository the data may change)_**
 
-**1-<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/SQL%20Projects" target="new"> SQL Projects/Practice</a>**
-  - Examples:
-    - SQL training
-    - Case Studies
-    - Practice code from Interview situations
-    - SQL code I want to save for future reference
+<details>
+<summary><a href="https://github.com/CameronCSS/PersonalProjects/tree/main/SQL%20Projects" target="new"> SQL Projects/Practice </a></summary>
+<a href="https://github.com/CameronCSS/PersonalProjects/blob/main/SQL%20Projects/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
+</details>
+
+- Examples:
+  - SQL training
+  - Case Studies
+  - Practice code from Interview situations
+  - SQL code I want to save for future reference
     
-**2-<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Data%20Analysis" target="new"> Data Analysis / Visuals</a>**
-  - Examples:
-    - Power BI Reports
-    - Tableau Reports
-    - Visual Insights to personal data projects
-    - Full analysis and reports on data projects
-    - Links to finished Dashboards
-    
-**3-<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Programming%20Projects" target="new"> Programming Projects</a>**
+<details>
+<summary><a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Data%20Analysis" target="new"> Data Analysis / Visuals</a></summary>
+<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Data%20Analysis/Sales%20Performance%20Review" target="new">Sales Performance Review</a>
+<br>
+<a href="https://github.com/CameronCSS/PersonalProjects/blob/main/Data%20Analysis/SLC%20Homless%20Data" target="new">SLC Homless Data</a>
+</details>
+
+ - Examples:
+   - Power BI Reports
+   - Tableau Reports
+   - Visual Insights to personal data projects
+   - Full analysis and reports on data projects
+   - Links to finished Dashboards
+  
+<details>
+<summary><a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Programming%20Projects" target="new"> Programming Projects</a></summary>
+<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Programming%20Projects/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
+</details>
+
   - Examples:
     - Python code practice
     - Python Library breakdowns
