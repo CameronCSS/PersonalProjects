@@ -317,7 +317,11 @@ GROUP BY purchases.customer_id;
 ```
 ![image](https://user-images.githubusercontent.com/121735588/211183881-a5f5fea0-6c6e-45b5-a4da-69bb5edb7794.png)
 <br>
-
+## Conclusion
+- This case study demonstrates how to use common table expressions (CTEs) and JOIN clauses in SQL to combine data from multiple tables and perform calculations on the resulting data set.
+- CTEs are useful for creating temporary result sets that can be used in a SELECT, INSERT, UPDATE, DELETE, or CREATE VIEW statement. They can help to simplify complex queries by breaking them down into smaller, more manageable pieces.
+- The JOIN clause is used to combine rows from two or more tables based on a related column, such as customer_id or product_id. There are several types of JOIN clauses, including INNER JOIN, OUTER JOIN, LEFT JOIN, and RIGHT JOIN, each of which has its own syntax and behavior.
+- In this case study, the CASE expression was used to apply different multipliers to the price of the items based on certain conditions, such as the product name or the order date. This can be a useful way to add conditional logic to a query and customize the results based on specific criteria.
 -----
 
 | Contact Method | Link |
