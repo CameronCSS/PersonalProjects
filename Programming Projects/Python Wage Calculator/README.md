@@ -1,18 +1,22 @@
-## This is Simple Python code that calculates your Wage 
+## A Simple Python code that Creates a UI and then calculates your Wages/Bills
 
 ####  How it works
 
 ```
--- The Remaining balance will be shown after you Enter wage, hours, and Bills and Hit calculate --
+-- The Remaining balance will be shown after you Enter wage, hours, Bills and Hit calculate --
 
--- This app uses the PyQt5 Library to build a UI --
+-- This app uses the PyQt5 Framework to build a UI --
 
 -- On the First tab you will enter your Wage and Hours worked --
--- You Then Hit Calculate to calculate your check amount --
+-- You Then Hit 'Calculate' to calculate your check amount --
 
 -- On the second tab you will hit "Add Bill" and enter a bill amount. --
 -- The Remaining Balance will be updated live as you enter Bills --
 ```
+
+![wage-calculator (3)](https://user-images.githubusercontent.com/121735588/211175350-f105e7f0-e049-4288-925c-4c9c8fa92d97.gif)
+
+
 
 ```python
 
