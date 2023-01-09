@@ -1,23 +1,27 @@
-# Projects Portfolio
+# Projects Portfolio Index
 This repository holds all of my Personal projects I am currently working on or have already completed.
-
-## Index
 
 **Projects will be binned into Three categories. _(As I bulild out this repository the data may change)_**
 
-<details>
-<summary><a href="https://github.com/CameronCSS/PersonalProjects/tree/main/SQL%20Projects" target="new"> SQL Projects/Practice </a></summary>
+----
+# SQL Projects/Practice 
+<details open>
+<summary>Projects</summary>
 <a href="https://github.com/CameronCSS/PersonalProjects/blob/main/SQL%20Projects/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
 </details>
 
-- Examples:
-  - SQL training
-  - Case Studies
-  - Practice code from Interview situations
-  - SQL code I want to save for future reference
+### Experience
+----
+
+  - Google data analytics professional certificate\
+  - Completed Khan Academy - Intro to SQL Course
+  - Finished the SQLBolt - Learn SQL Training
+  - Case Study 'Data with Danny' 8 Week SQL Challenge
+  
+# Data Analysis / Visuals
     
-<details>
-<summary><a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Data%20Analysis" target="new"> Data Analysis / Visuals</a></summary>
+<details open>
+<summary>Projects</summary>
 <a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Data%20Analysis/Sales%20Performance%20Review" target="new">Sales Performance Review</a>
   <br>
 <a href="https://github.com/CameronCSS/PersonalProjects/blob/main/Data%20Analysis/SLC%20civilian%20complaints/README.md" target="new">SLC civilian complaints</a>
@@ -25,28 +29,36 @@ This repository holds all of my Personal projects I am currently working on or h
 <a href="https://github.com/CameronCSS/PersonalProjects/blob/main/Data%20Analysis/SLC%20Homless%20Data" target="new">SLC Homless Data</a>
 </details>
 
- - Examples:
-   - Power BI Reports
-   - Tableau Reports
-   - Visual Insights to personal data projects
-   - Full analysis and reports on data projects
-   - Links to finished Dashboards
-  
-<details>
-<summary><a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Programming%20Projects" target="new"> Programming Projects</a></summary>
+### Experience
+----
+   - Power BI/Tableau Visual Reports
+   - Case study and data breakdowns
+   - API pulls and database building
+   - Full analysis and reports on data
+   - Buidling finished Dashboards
+   
+ ----
+## Programming Projects/Practice
+ 
+<details open>
+<summary>Projects</summary>
 <a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Programming%20Projects/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
 </details>
 
-  - Examples:
-    - Python code practice
-    - Python Library breakdowns
-    - Miscellaneous apps and programs
+### Experience
+
+  - Google data analytics professional certificate (*R) 
+  - Completed Kaggle 'Intro to Programming' Course
+  - C# app building in High School
+  - Built out a few simple programs in Python through Self Learning
+  
+  -------
     
     
 ## Currently working on
 
 - 📝 I’m currently working on a report about <a href = "https://github.com/CameronCSS/PersonalProjects/tree/main/Data%20Analysis/SLC%20Homless%20Data"> **SLC Homeless numbers </a> after shutting down Homeless Centers**
-- 👉 Finishing up Week #1 of the <a href ="https://github.com/CameronCSS/PersonalProjects/tree/main/SQL%20Projects/8%20Week%20SQL%20Challenge%20%23%201"> 8 Week SQL Challenge </a> with SQL query answer breakdowns.
+- 👉 Finishing up Week #2 of the <a href ="https://github.com/CameronCSS/PersonalProjects/tree/main/SQL%20Projects/8%20Week%20SQL%20Challenge%20%23%201"> 8 Week SQL Challenge </a> with SQL query answer breakdowns.
 - ⚡ Expanding my knowledge of Python and pandas library**
   
     
