@@ -14,24 +14,25 @@ All of my coding practice and projects will be located here.
   - C# app building in High School
   - Built out a few simple programs in Python through Self Learning
   
+----
 
-
-<details>
-  <summary>View My Other Projects</summary>
+### View My Other Projects
     
-**-<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/SQL%20Projects" target="new"> SQL Projects/Practice</a>**
-   - SQL training
-   - Practice code from Interview situations
-   - SQL code I was messing around with and wanted to record so I could reference it later
-    
-**-<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Data%20Analysis" target="new"> Data Analysis / Visuals</a>**
-   - Power BI Reports
-   - Tableau Reports
-   - Visual Insights to personal data projects
-   - Full analysis and reports on data projects
-   - Links to finished Dashboards
-    
+<details open>
+<summary>SQL Projects/Practice </summary>
+<a href="https://github.com/CameronCSS/PersonalProjects/blob/main/SQL%20Projects/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
 </details>
+
+<details open>
+<summary>Data Analysis / Visuals</summary>
+<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Data%20Analysis/Sales%20Performance%20Review" target="new">Sales Performance Review</a>
+  <br>
+<a href="https://github.com/CameronCSS/PersonalProjects/blob/main/Data%20Analysis/SLC%20civilian%20complaints/README.md" target="new">SLC civilian complaints</a>
+<br>
+<a href="https://github.com/CameronCSS/PersonalProjects/blob/main/Data%20Analysis/SLC%20Homless%20Data" target="new">SLC Homless Data</a>
+</details>
+
+----
 
 ### <a href="https://github.com/CameronCSS/PersonalProjects">Back to Index</a>
 
