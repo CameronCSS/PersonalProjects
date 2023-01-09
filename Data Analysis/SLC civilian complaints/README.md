@@ -14,7 +14,7 @@ During my search for data on <a href="https://github.com/CameronCSS/PersonalProj
 
 ### Insights
 
-- Apple users register the most of amount of complaints regarding homlessness, parking problems, Graffiti, Illegaly dumping trash, and almost every single category
+- Apple users register the most amount of complaints regarding homlessness, parking problems, Graffiti, Illegaly dumping trash, and almost every single category
 - Apple devices are responsible for a larger number of complaints compared to other device types. This could be due to a higher market share of Apple devices, or it could indicate that Apple users are more likely to report issues.
 - A much larger percentage of Apple complaints included a picture when compared with the complaints from Android or on the Website.
 - The app also tracks when a complaint is "closed". It took the city an Average of 48 days to resolve and close complaints.
