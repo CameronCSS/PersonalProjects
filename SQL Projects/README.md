@@ -13,22 +13,26 @@ All of my SQL practice and projects will be located here.
   - Finished the SQLBolt - Learn SQL Training
   - Case Study 'Data with Danny' 8 Week SQL Challenge
 
-<details>
-  <summary>View My Other Projects</summary>
+----
+### View My Other Projects
     
-**<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Data%20Analysis" target="new">Data Analysis / Visuals</a>**
-   - Power BI Reports
-   - Tableau Reports
-   - Visual Insights to personal data projects
-   - Full analysis and reports on data projects
-   - Links to finished Dashboards
-    
-**<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Programming%20Projects" target="new">Programming Projects</a>**
-   - Python code practice
-   - Python Library breakdowns
-   - Miscellaneous apps and programs
+<details open>
+<summary>Data Analysis / Visuals</summary>
+<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Data%20Analysis/Sales%20Performance%20Review" target="new">Sales Performance Review</a>
+  <br>
+<a href="https://github.com/CameronCSS/PersonalProjects/blob/main/Data%20Analysis/SLC%20civilian%20complaints/README.md" target="new">SLC civilian complaints</a>
+<br>
+<a href="https://github.com/CameronCSS/PersonalProjects/blob/main/Data%20Analysis/SLC%20Homless%20Data" target="new">SLC Homless Data</a>
 </details>
+    
 
+<details open>
+<summary>Programming Projects/Practice</summary>
+<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Programming%20Projects/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
+</details>
+    
+
+----
 
 ### <a href="https://github.com/CameronCSS/PersonalProjects">Back to Index</a>
 
