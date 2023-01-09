@@ -1,9 +1,4 @@
-# Data Analysis / Visuals
-   - Power BI Reports
-   - Tableau Reports
-   - Visual Insights to personal data projects
-   - Full analysis and reports on data projects
-   - Links to finished Dashboards
+# Data Analysis / Visuals\
 
 <details open>
   <summary>Data Analysis / Visuals Projects</summary>
@@ -15,6 +10,15 @@
 
 
 </details>
+
+## Experience
+
+   - Power BI / Tableau Visual Reports
+   - Case study and data breakdowns
+   - API pulls and database building
+   - Full analysis and reports on data
+   - Buidling finished Dashboards
+
 
 <details>
   <summary>View My Other Projects</summary>
