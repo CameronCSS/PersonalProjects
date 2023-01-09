@@ -38,7 +38,7 @@ When we compare that to the amount of complaints the numbers seem even more skew
 
 
 - Homlessness, Parking, and Graffiti are the top 3 most registered complaints.
-- There were over 150 Unique complaints registered in the app, with over 55,000 Total complaints.
+- There were over 150 Unique complaints registered in the app, and over 55,000 Total complaints.
 - The graph makes it very apparent Apple users register a majority of the complaints in SLC
 
 ![image](https://user-images.githubusercontent.com/121735588/211230862-97982698-43e5-44d0-a2bf-76a837e8bb14.png)
