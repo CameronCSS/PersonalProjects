@@ -37,7 +37,6 @@ This repository holds all of my Personal projects I am currently working on or h
    - Full analysis and reports on data
    - Buidling finished Dashboards
    
- ----
 ## Programming Projects/Practice
  
 <details open>
