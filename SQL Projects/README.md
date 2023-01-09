@@ -9,8 +9,8 @@ All of my SQL practice and projects will be located here.
 ## Experience
 
   - Google data analytics professional certificate
-  - Finished the SQLBolt - Learn SQL Training
   - Completed Khan Academy - Intro to SQL Course
+  - Finished the SQLBolt - Learn SQL Training
   - Case Study 'Data with Danny' 8 Week SQL Challenge
 
 <details>
