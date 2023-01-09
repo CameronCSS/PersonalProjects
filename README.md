@@ -13,7 +13,7 @@ This repository holds all of my Personal projects I am currently working on or h
 ### Experience
 ----
 
-  - Google data analytics professional certificate\
+  - Google data analytics professional certificate
   - Completed Khan Academy - Intro to SQL Course
   - Finished the SQLBolt - Learn SQL Training
   - Case Study 'Data with Danny' 8 Week SQL Challenge
@@ -31,7 +31,7 @@ This repository holds all of my Personal projects I am currently working on or h
 
 ### Experience
 ----
-   - Power BI/Tableau Visual Reports
+   - Power BI / Tableau Visual Reports
    - Case study and data breakdowns
    - API pulls and database building
    - Full analysis and reports on data
