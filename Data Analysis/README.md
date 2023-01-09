@@ -20,23 +20,23 @@ All of my visual reports, data analysis, and dashboards will be here
    - API pulls and database building
    - Full analysis and reports on data
    - Buidling finished Dashboards
+----
 
-
-<details>
-  <summary>View My Other Projects</summary>
+### View My Other Projects
     
-**-<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/SQL%20Projects" target="new"> SQL Projects/Practice</a>**
-   - SQL training
-   - Practice code from Interview situations
-   - SQL code I was messing around with and wanted to record so I could reference it later
-    
-    
-**-<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Programming%20Projects" target="new"> Programming Projects</a>**
-   - Python code practice
-   - Python Library breakdowns
-   - Miscellaneous apps and programs
-    
+<details open>
+<summary>SQL Projects/Practice </summary>
+<a href="https://github.com/CameronCSS/PersonalProjects/blob/main/SQL%20Projects/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
 </details>
+    
+
+<details open>
+<summary>Programming Projects/Practice</summary>
+<a href="https://github.com/CameronCSS/PersonalProjects/tree/main/Programming%20Projects/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
+</details>
+
+
+----
 
 ### <a href="https://github.com/CameronCSS/PersonalProjects">Back to Index</a>
 
