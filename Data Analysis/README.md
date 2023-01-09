@@ -1,4 +1,6 @@
-# Data Analysis / Visuals\
+# Data Analysis / Visuals
+
+All of my visual reports, data analysis, and dashboards will be here
 
 <details open>
   <summary>Data Analysis / Visuals Projects</summary>
