@@ -28,7 +28,7 @@ During my search for data on <a href="https://github.com/CameronCSS/PersonalProj
 
 ![image](https://user-images.githubusercontent.com/121735588/211230094-cf2e82c8-8e5a-4988-8443-097f2ca69683.png)
 
-**Complaints were collected between July 2014, and July 2022*
+**55,444 Complaints were collected between July 2014, and July 2022*
 
 
 According to eMarketer, Android phones make up 53% of total smartphone users.
