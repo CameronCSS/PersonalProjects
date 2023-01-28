@@ -4,14 +4,14 @@ This repository holds all of my Personal projects I am currently working on or h
 **Projects will be binned into Three categories. _(As I bulild out this repository the data may change)_**
 
 ----
-# SQL Projects / Queries
+# SQL Queries
 <details open>
 <summary>Projects</summary>
-<a href="https://github.com/CameronCSS/SQL-Projects/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
+<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
 <br>
-<a href="https://github.com/CameronCSS/SQL-Projects/tree/main/Khan%20Academy%20Advanced%20SQL" target="new">Khan Academy Advanced SQL</a>
+<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/Khan%20Academy%20Advanced%20SQL" target="new">Khan Academy Advanced SQL</a>
 <br>
-<a href="https://github.com/CameronCSS/SQL-Projects/tree/main/SQLbolt%20-%20SQL%20lessons" target="new">SQLbolt - SQL lessons</a>
+<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/SQLbolt%20-%20SQL%20lessons" target="new">SQLbolt - SQL lessons</a>
 </details>
 
 ### Experience
@@ -42,11 +42,11 @@ This repository holds all of my Personal projects I am currently working on or h
    - Full analysis and reports on data
    - Buidling finished Dashboards
    
-# Programming Projects / Code
+# Programming languages / Code
  
 <details open>
 <summary>Projects</summary>
-<a href="https://github.com/CameronCSS/Programming-Projects/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
+<a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
 </details>
 
 ### Experience
