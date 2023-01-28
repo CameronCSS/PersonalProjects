@@ -1,7 +1,7 @@
 # Portfolio Index
-This repository holds all of my Personal projects I am currently working on or have already completed.
+### This repository holds all of my Personal projects.
 
-**Projects will be binned into Three categories. _(As I bulild out this repository the data may change)_**
+###### _*As I bulild out this repository the data may change_
 
 ----
 # SQL Queries
