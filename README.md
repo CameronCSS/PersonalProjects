@@ -4,7 +4,7 @@
 ###### _*As I bulild out this repository the data may change_
 
 ----
-# SQL Queries
+# <a href="https://github.com/CameronCSS/SQL-Queries" target="new">SQL Queries</a>
 <details open>
 <summary>Projects</summary>
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
@@ -22,7 +22,7 @@
   - Finished the SQLBolt - Learn SQL Training
   - Case Study 'Data with Danny' 8 Week SQL Challenge
   
-# Data Analysis / Visuals
+# <a href="https://github.com/CameronCSS/Data-Analysis" target="new">Data Analysis / Visuals</a>
     
 <details open>
 <summary>Projects</summary>
@@ -42,7 +42,7 @@
    - Full analysis and reports on data
    - Buidling finished Dashboards
    
-# Programming languages / Code
+# <a href="https://github.com/CameronCSS/Programming-Languages" target="new">Programming languages / Code</a>
  
 <details open>
 <summary>Projects</summary>
