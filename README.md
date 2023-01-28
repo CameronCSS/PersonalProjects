@@ -26,7 +26,7 @@ This repository holds all of my Personal projects I am currently working on or h
     
 <details open>
 <summary>Projects</summary>
-<a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">Netflix Movies and TV Shows</a>
+<a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">Netflix Movies and TV Shows</a><em> *Interactive Dashboard</em>
 <br>
 <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Sales%20Performance%20Review" target="new">Sales Performance Review</a>
 <br>
