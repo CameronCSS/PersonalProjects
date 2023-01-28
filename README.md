@@ -1,10 +1,10 @@
-# Projects Portfolio Index
+# Portfolio Index
 This repository holds all of my Personal projects I am currently working on or have already completed.
 
 **Projects will be binned into Three categories. _(As I bulild out this repository the data may change)_**
 
 ----
-# SQL Projects/Practice 
+# SQL Projects / Queries
 <details open>
 <summary>Projects</summary>
 <a href="https://github.com/CameronCSS/SQL-Projects/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
@@ -42,7 +42,7 @@ This repository holds all of my Personal projects I am currently working on or h
    - Full analysis and reports on data
    - Buidling finished Dashboards
    
-## Programming Projects/Practice
+# Programming Projects / Code
  
 <details open>
 <summary>Projects</summary>
@@ -68,11 +68,7 @@ This repository holds all of my Personal projects I am currently working on or h
     
 ## About Me
 
-As a data professional with a passion for visualization and storytelling, 
-my goal is to utilize my skills in SQL, Power BI, and Python to turn complex data sets into easily understandable insights.
-With a background in project management and business analysis, I have the ability and drive to effectively communicate findings and collaborate with cross-functional teams. 
-
-I am always seeking new opportunities to learn and grow as a data analyst, and am excited to be a part of a community of like-minded data nerds.
+A passionate data analyst dedicated to uncovering valuable insights hidden within complex data sets. Strong problem solver, ability to identify and analyze complex issues, self motivated, endlessly looking to improve. My goal is to utilize my skills in SQL, Power BI, Tableau, and Python to turn complex data sets into easy to understand visuals that get everyone interested in the insights.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> </p>
