@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+
 <br />
 <div align="center">
     <img src="https://avatars.githubusercontent.com/u/121735588?v=4" alt="Logo" width="150" height="150">
@@ -132,3 +133,4 @@ A passionate data analyst dedicated to uncovering valuable insights hidden withi
 | Twitter | https://twitter.com/Cameron_CSS |
 | Resume | ['Cameron Seamons' Resume](https://drive.google.com/file/d/19vkbf2HjEpXpxndWYa4A6Dyt6gsnGv73/view?usp=sharing) | 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
