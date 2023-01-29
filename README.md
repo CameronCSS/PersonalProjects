@@ -75,7 +75,7 @@ A passionate data analyst dedicated to uncovering valuable insights hidden withi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&theme=transparent)](https://cameroncss.github.io/)
 <br>
-![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=CameronCSS&show_icons=true&theme=transparent)
+![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=CameronCSS&show_icons=true&theme=transparent&hide=issues,contribs)
 
 ## Contact Me
 
