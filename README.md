@@ -9,6 +9,8 @@
   <p align="center">
     All my code, visuals, and projects are listed here!
     <br />
+      <br>
+      <sub><sup>[ LINKS TO PROJECT FOLDERS ]</sup></sub>
     <br />
     <a href="https://github.com/CameronCSS/SQL-Queries" target="_blank">SQL Queries</a>
     ·
@@ -43,10 +45,10 @@
 </details>
 
 
-# Projects
+# PORTFOLIO
 
 # SQL Queries
-<details open>
+<details>
 <summary>View Projects</summary>
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
 <br>
@@ -109,7 +111,7 @@ GROUP BY purchases.customer_id;
 
 # Data Analysis / Visuals
     
-<details open>
+<details>
 <summary>View Projects</summary>
 <a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">Netflix Movies and TV Shows</a><em> *Interactive Dashboard</em>
 <br>
@@ -118,7 +120,7 @@ GROUP BY purchases.customer_id;
 <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/SLC%20civilian%20complaints" target="new">SLC civilian complaints</a>
   <br>
   <br>
-
+</details>
 <a name="Analysis-Experience"></a>
 ## Analysis Experience
 
@@ -131,6 +133,10 @@ GROUP BY purchases.customer_id;
 ### Data Visualization sample
 ----
 _Full project »_ <a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">_Netflix Movies and TV Shows_</a>
+   </br>
+        <sub>_*Click link for full interactive dashboard_</sub>
+    </br>
+    </br>
 ![Netflix](https://user-images.githubusercontent.com/121735588/215313601-be1ab656-af52-49a0-86a4-2b1a42910aec.png)
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -139,7 +145,7 @@ _Full project »_ <a href="https://cameroncss.github.io/Data-Analysis/Netflix/in
    
 # Programming languages / Code
  
-<details open>
+<details>
 <summary>View Projects</summary>
 <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
 </details>
@@ -156,6 +162,7 @@ _Full project »_ <a href="https://cameroncss.github.io/Data-Analysis/Netflix/in
 ----
     
 _Full project »_ <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
+    <br>
     <br>
     <br>
 ![wage-calculator (3)](https://user-images.githubusercontent.com/121735588/211175350-f105e7f0-e049-4288-925c-4c9c8fa92d97.gif)
