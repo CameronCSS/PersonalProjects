@@ -10,7 +10,7 @@
     All my code, visuals, and projects are listed here!
     <br />
       <br>
-      <sub><sup>[ LINKS TO PROJECT FOLDERS ]</sup></sub>
+      <sub><sup>[ PROJECT FOLDER LINKS ]</sup></sub>
     <br />
     <a href="https://github.com/CameronCSS/SQL-Queries" target="_blank">SQL Queries</a>
     ·
