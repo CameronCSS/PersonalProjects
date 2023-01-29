@@ -73,8 +73,10 @@ _Full project »_
 
 #### The Challenge
 ```
-In the first week after a customer joins the member points program (including their join date) 
-they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+In the first week after a customer joins 
+the member points program (including their join date) 
+they earn 2x points on all items, not just sushi - 
+how many points do customer A and B have at the end of January?
 ```
 
 #### SQL Query
@@ -113,7 +115,7 @@ GROUP BY purchases.customer_id;
     
 <details>
 <summary>View Projects</summary>
-<a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">Netflix Movies and TV Shows</a><em> *Interactive Dashboard</em>
+<a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">Netflix Movies and TV Shows</a>
 <br>
 <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Sales%20Performance%20Review" target="new">Sales Performance Review</a>
 <br>
@@ -122,6 +124,7 @@ GROUP BY purchases.customer_id;
   <br>
 </details>
 <a name="Analysis-Experience"></a>
+
 ## Analysis Experience
 
    - Power BI / Tableau Visual Reports
