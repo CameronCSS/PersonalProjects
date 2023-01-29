@@ -63,7 +63,50 @@
   - Completed Khan Academy - Intro to SQL Course
   - Finished the SQLBolt - Learn SQL Training
   - Case Study 'Data with Danny' 8 Week SQL Challenge
-  
+
+### SQL Query sample
+----
+_Full project »_
+<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">"8 Week SQL Challenge # 1"</a>
+
+#### The Challenge
+```
+In the first week after a customer joins the member points program (including their join date) 
+they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
+```
+
+#### SQL Query
+```sql
+WITH dates AS 
+(
+ SELECT *, 
+  DATEADD(DAY, 6, join_date) AS valid_date, 
+  EOMONTH('2021-01-31') AS last_day
+ FROM members
+),
+purchases AS (
+  SELECT sales.customer_id, menu.product_name, menu.price, sales.order_date,
+         members.join_date,
+         (CASE
+         WHEN menu.product_name = 'sushi' THEN 2 * menu.price
+         WHEN sales.order_date BETWEEN members.join_date AND dates.valid_date THEN menu.price * 2
+            ELSE menu.price
+          END) * 10 AS points
+  FROM sales
+  JOIN menu ON sales.product_id = menu.product_id
+  JOIN members ON sales.customer_id = members.customer_id
+  JOIN dates ON members.customer_id = dates.customer_id
+)
+SELECT purchases.customer_id, SUM(points) as total_points
+FROM purchases
+JOIN dates ON purchases.customer_id = dates.customer_id
+WHERE order_date < dates.last_day
+GROUP BY purchases.customer_id;
+```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+----
+
 # Data Analysis / Visuals
     
 <details open>
@@ -84,6 +127,15 @@
    - API pulls and database building
    - Full analysis and reports on data
    - Buidling finished Dashboards
+    
+### Data Visualization sample
+----
+_Full project »_ <a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">_Netflix Movies and TV Shows_</a>
+![Netflix](https://user-images.githubusercontent.com/121735588/215313601-be1ab656-af52-49a0-86a4-2b1a42910aec.png)
+<br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+    
+----
    
 # Programming languages / Code
  
@@ -99,10 +151,24 @@
   - Completed Kaggle 'Intro to Programming' Course
   - Built out a few simple programs in Python through Self Learning
   - C# app building in High School
-  
-  -------
+    
+### Python code sample
+----
+    
+_Full project »_ <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
+    <br>
+    <br>
+![wage-calculator (3)](https://user-images.githubusercontent.com/121735588/211175350-f105e7f0-e049-4288-925c-4c9c8fa92d97.gif)
+ 
+
+    
+![image](https://user-images.githubusercontent.com/121735588/215314444-6760ecf2-f427-4f02-9b26-3d1189549cc6.png)
+
+
     
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+    
+  -------
 
 <a name="Currently-working-on"></a>
 ## Currently working on
