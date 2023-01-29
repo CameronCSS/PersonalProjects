@@ -183,6 +183,7 @@ _Full project »_ <a href="https://github.com/CameronCSS/Programming-Languages/t
 <a name="Currently-working-on"></a>
 ## Currently working on
 
+- 📊 Power BI Deep dive - I am currently building several reports in Power BI to showcase my personal understanding of what it can do
 - 📝 I’m currently working on a report about <a href = "https://github.com/CameronCSS/Data-Analysis/tree/main/SLC%20Homless%20Data"> **SLC Homeless numbers </a> after shutting down Homeless Centers**
 - 👉 Finishing up Week #2 of the <a href ="https://github.com/CameronCSS/SQL-Projects/tree/main/8%20Week%20SQL%20Challenge%20%23%201"> 8 Week SQL Challenge </a> with SQL query answer breakdowns.
 - ⚡ Expanding my knowledge of Python and pandas library**
