@@ -9,11 +9,11 @@
     All my code, visuals, and projects are listed here!
     <br />
     <br />
-    <a href="https://github.com/CameronCSS/SQL-Queries" target="_blank>SQL Queries</a>
+    <a href="https://github.com/CameronCSS/SQL-Queries" target="_blank">SQL Queries</a>
     ·
-    <a href="https://github.com/CameronCSS/Data-Analysis" target="_blank>Data Visuals</a>
+    <a href="https://github.com/CameronCSS/Data-Analysis" target="_blank">Data Visuals</a>
     ·
-    <a href="https://github.com/CameronCSS/Programming-Languages" target="_blank>Programming Code</a>
+    <a href="https://github.com/CameronCSS/Programming-Languages" target="_blank">Programming Code</a>
     <br />
     <br />
     <br />
