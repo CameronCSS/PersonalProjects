@@ -45,7 +45,7 @@
 </details>
 
 
-# PORTFOLIO
+# PROJECTS
 
 # SQL Queries
 <details>
