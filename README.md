@@ -53,8 +53,8 @@
 
   - Google data analytics professional certificate (*R) 
   - Completed Kaggle 'Intro to Programming' Course
-  - C# app building in High School
   - Built out a few simple programs in Python through Self Learning
+  - C# app building in High School
   
   -------
     
