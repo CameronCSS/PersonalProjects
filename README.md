@@ -187,11 +187,46 @@ _Full project_ :arrow_right: <a href="https://cameroncss.github.io/Data-Analysis
  
  
 <br>
-  [ Code ] :arrow_heading_down:
+  [ Code snippet ] :arrow_heading_down:
 <br>
 <br>
     
-![image](https://user-images.githubusercontent.com/121735588/215314444-6760ecf2-f427-4f02-9b26-3d1189549cc6.png)
+```python
+# create the add bill button
+		self.add_bill_button = QPushButton('Add Bill')
+		self.add_bill_button.clicked.connect(self.add_bill)
+		self.bills_layout.addWidget(self.add_bill_button)
+		
+		# create the calculated income label
+		self.calculated_income_label = QLabel('Calculated Income: 0.00')
+		self.bills_layout.addWidget(self.calculated_income_label)
+		
+		# create the remaining balance label
+		self.remaining_balance_label = QLabel('Remaining Balance: 0.00')
+		self.bills_layout.addWidget(self.remaining_balance_label)
+		
+		# set the initial tab
+		self.tabs.setCurrentIndex(0)
+		
+	def calculate_income(self):
+		# calculate the income
+		try:
+			hourly_wage = float(self.hourly_wage_input.text())
+			hours_worked = float(self.hours_worked_input.text())
+			
+			calculated_income = hourly_wage * hours_worked
+			
+			self.calculated_income_label.setText('Calculated Income: {:.2f}'.format(calculated_income))
+			
+			self.remaining_balance = calculated_income
+			self.remaining_balance_label.setText('Remaining Balance: {:.2f}'.format(self.remaining_balance))
+			
+			self.tabs.setCurrentIndex(1)
+		except:
+			pass
+
+```
+
 <br>
 _Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
     
