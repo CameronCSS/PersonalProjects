@@ -7,15 +7,15 @@
   <h3 align="center">Welcome to My Portfolio</h3>
 
   <p align="center">
-    All my code, visuals, and projects are listed here!
+    All my :computer: code, :bar_chart: visuals, and :chart_with_upwards_trend: projects are listed here!
     <br />
       <br>
       <sub><sup>[ PROJECT FOLDER LINKS ]</sup></sub>
     <br />
     <a href="https://github.com/CameronCSS/SQL-Queries" target="_blank">SQL Queries</a>
-    ·
+    :small_blue_diamond:
     <a href="https://github.com/CameronCSS/Data-Analysis" target="_blank">Data Visuals</a>
-    ·
+    :small_blue_diamond:
     <a href="https://github.com/CameronCSS/Programming-Languages" target="_blank">Programming Code</a>
     <br />
     <br />
@@ -29,14 +29,17 @@
 <details>
   <summary>Table of Contents</summary>
     <ul>
-    <li>SQL Queries</li>
-    <ul><li><a href="#SQL-Experience">SQL Experience</a></li></ul>
+    <li><a href="#SQL-Queries">SQL Queries</a></li>
+    <ul><li>SQL Experience</li></ul>
+    <ul><li>SQL Query Sample</li></ul>
     <br>
-    <li>Data Analysis / Visuals</li>
-    <ul><li><a href="#Analysis-Experience">Analysis Experience</a></li></ul>
+    <li><a href="#Data-Analysis">Data Analysis / Visuals</a></li>
+    <ul><li>Analysis Experience</li></ul>
+    <ul><li>Data Visualization sample</li></ul>
     <br>
-    <li>Programming languages / Code</li>
-    <ul><li><a href="#Programming-Experience">Programming Experience</a></li></ul>
+    <li><a href="#Programming">Programming languages / Code</a></li>
+    <ul><li>Programming Experience</li></ul>
+    <ul><li>Python code sample</li></ul>
     <br>
     <li><a href="#Currently-working-on">Currently working on</a></li>
     <li><a href="#About">About Me</a></li>
@@ -46,8 +49,9 @@
 
 
 # PROJECTS
-
+<a name="SQL-Queries"></a>
 # SQL Queries
+
 <details>
 <summary>View Projects</summary>
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
@@ -57,19 +61,21 @@
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/SQLbolt%20-%20SQL%20lessons" target="new">SQLbolt - SQL lessons</a>
 </details>
 
-<a name="SQL-Experience"></a>
+
 ## SQL Experience
-
-
-  - Google data analytics professional certificate
-  - Completed Khan Academy - Intro to SQL Course
-  - Finished the SQLBolt - Learn SQL Training
-  - Case Study 'Data with Danny' 8 Week SQL Challenge
+:ballot_box_with_check: Google data analytics professional certificate
+ <br> :ballot_box_with_check: Completed Khan Academy - Intro to SQL Course
+ <br> :ballot_box_with_check: Finished the SQLBolt - Learn SQL Training
+ <br> :ballot_box_with_check: Case Study 'Data with Danny' 8 Week SQL Challenge
 
 ### SQL Query sample
 ----
-_Full project »_
-<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">"8 Week SQL Challenge #1"</a>
+
+### [ Project Description ]
+
+:small_blue_diamond: Danny's Diner wants to use data to answer a few simple questions about his customers.
+<br> :small_blue_diamond: You need to use SQL queries to give him the answers to best help his business.
+
 
 #### The Challenge
 ```
@@ -107,10 +113,12 @@ JOIN dates ON purchases.customer_id = dates.customer_id
 WHERE order_date < dates.last_day
 GROUP BY purchases.customer_id;
 ```
+_Full project_ :arrow_right:
+<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">_"8 Week SQL Challenge #1"_</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ----
-
+<a name="Data-Analysis"></a>
 # Data Analysis / Visuals
     
 <details>
@@ -123,29 +131,33 @@ GROUP BY purchases.customer_id;
   <br>
   <br>
 </details>
-<a name="Analysis-Experience"></a>
 
 ## Analysis Experience
-
-   - Power BI / Tableau Visual Reports
-   - Case study and data breakdowns
-   - API pulls and database building
-   - Full analysis and reports on data
-   - Buidling finished Dashboards
+:ballot_box_with_check: Power BI / Tableau Visual Reports
+<br> :ballot_box_with_check: Case study and data breakdowns
+<br> :ballot_box_with_check: API pulls and database building
+<br> :ballot_box_with_check: Full analysis and reports on data
+<br> :ballot_box_with_check: Buidling finished Dashboards
     
 ### Data Visualization sample
 ----
-_Full project »_ <a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">_Netflix Movies and TV Shows_</a>
-   </br>
-        <sub>_*Click link for full interactive dashboard_</sub>
-    </br>
-    </br>
+### [ Project Description ]
+  :small_blue_diamond: This dashboard was built with Tableau public using public Netflix date up to 2020.
+    <br>
+    <br>
+    
 ![Netflix](https://user-images.githubusercontent.com/121735588/215313601-be1ab656-af52-49a0-86a4-2b1a42910aec.png)
 <br>
+
+_Full project_ :arrow_right: <a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">_Netflix Movies and TV Shows_</a>
+   <br>
+        <sub>_*Click link for full interactive dashboard_</sub>
+    <br>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
     
 ----
-   
+ <a name="Programming"></a>  
 # Programming languages / Code
  
 <details>
@@ -153,28 +165,35 @@ _Full project »_ <a href="https://cameroncss.github.io/Data-Analysis/Netflix/in
 <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
 </details>
 
-<a name="Programming-Experience"></a>
 ## Programming Experience
-
-  - Google data analytics professional certificate (*R) 
-  - Completed Kaggle 'Intro to Programming' Course
-  - Built out a few simple programs in Python through Self Learning
-  - C# app building in High School
+:ballot_box_with_check: Google data analytics professional certificate (*R) 
+<br> :ballot_box_with_check: Completed Kaggle 'Intro to Programming' Course
+<br> :ballot_box_with_check: Built out a few simple programs in Python through Self Learning
+<br> :ballot_box_with_check: C# app building in High School
     
 ### Python code sample
 ----
-    
-_Full project »_ <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
-    <br>
-    <br>
-    <br>
+### [ Project Description ]
+
+:small_blue_diamond: A Simple Python code that Creates a UI and then calculates your Wages/Bills
+
+ <br>
+[ Demonstration ] :arrow_heading_down:
+ <br>
+ <br>
+
+
 ![wage-calculator (3)](https://user-images.githubusercontent.com/121735588/211175350-f105e7f0-e049-4288-925c-4c9c8fa92d97.gif)
  
-
+ 
+<br>
+  [ Code ] :arrow_heading_down:
+<br>
+<br>
     
 ![image](https://user-images.githubusercontent.com/121735588/215314444-6760ecf2-f427-4f02-9b26-3d1189549cc6.png)
-
-
+<br>
+_Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
     
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
     
@@ -185,7 +204,7 @@ _Full project »_ <a href="https://github.com/CameronCSS/Programming-Languages/t
 
 - 📊 Power BI Deep dive - I am currently building several reports in Power BI to showcase my personal understanding of what it can do
 - 📝 I’m currently working on a report about <a href = "https://github.com/CameronCSS/Data-Analysis/tree/main/SLC%20Homless%20Data"> **SLC Homeless numbers </a> after shutting down Homeless Centers**
-- 👉 Finishing up Week #2 of the <a href ="https://github.com/CameronCSS/SQL-Projects/tree/main/8%20Week%20SQL%20Challenge%20%23%201"> 8 Week SQL Challenge </a> with SQL query answer breakdowns.
+- :soon: Finishing up Week #2 of the <a href ="https://github.com/CameronCSS/SQL-Projects/tree/main/8%20Week%20SQL%20Challenge%20%23%201"> 8 Week SQL Challenge </a> with SQL query answer breakdowns.
 - ⚡ Expanding my knowledge of Python and pandas library**
   
 <a name="About"></a>  
