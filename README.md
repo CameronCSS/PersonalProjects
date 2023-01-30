@@ -228,6 +228,7 @@ _Full project_ :arrow_right: <a href="https://cameroncss.github.io/Data-Analysis
 ```
 
 <br>
+
 _Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
     
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
