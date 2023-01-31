@@ -67,7 +67,7 @@
 <br>
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/SQLbolt%20-%20SQL%20lessons" target="new">SQLbolt - SQL lessons</a>
 <br>
-:arrow_right_hook: - Refreshed foundational understanding of SQL and discovered variations among SQL-powered platforms.
+:arrow_right_hook: - Refreshed foundational understanding of SQL and discovered context variations among SQL-powered platforms.
 <br>
 
 </details>
@@ -282,7 +282,7 @@ Currently seeking new opportunities. <li><a href="#Contact">Contact Me</a></li>
 ![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=CameronCSS&show_icons=true&theme=transparent&hide=issues,contribs)
 
 <a name="Contact"></a> 
-## Contact
+## Contact Me
 
 <div style="display: flex;">
   <table style="flex: 1;">
