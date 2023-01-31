@@ -7,7 +7,7 @@
   <h3 align="center">Welcome to My Portfolio</h3>
 
   <p align="center">
-    All my :computer: code, :bar_chart: visuals, and :chart_with_upwards_trend: projects are listed here!
+    All my code :computer: , visuals :bar_chart: , and projects :chart_with_upwards_trend: are listed here!
     <br />
       <br>
       <sub><sup>[ PROJECT FOLDER LINKS ]</sup></sub>
