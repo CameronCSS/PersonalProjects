@@ -134,6 +134,11 @@ _Full project_ :arrow_right:
     
 <details open>
 <summary>Projects</summary>
+<a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Power-BI-Dashboards" target="new">Power BI Dashboards</a>
+<br>
+:arrow_right_hook: - Collection of my Power BI projects/dashboards with detailed analysis and visually appealing data.
+<br>
+<br>
 <a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">Netflix Movies and TV Shows</a>
 <br>
 :arrow_right_hook: - Built out multiple sheets to display on a single visual, and created an interactive dashboard.
@@ -152,7 +157,7 @@ _Full project_ :arrow_right:
 
 ## Analysis Experience
 :ballot_box_with_check: Power BI / Tableau Visual Reports
-<br> :ballot_box_with_check: Case study and data breakdowns
+<br> :ballot_box_with_check: Data Cleaning and transforming
 <br> :ballot_box_with_check: API pulls and database building
 <br> :ballot_box_with_check: Full analysis and reports on data
 <br> :ballot_box_with_check: Buidling finished Dashboards
