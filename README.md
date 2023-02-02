@@ -22,7 +22,7 @@
     <sub><a href="#Contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
 <br>
     <br>
-     <a href="https://github.com/CameronCSS"><strong>« Back to Profile</strong></a>
+     <a href="https://cameroncss.github.io/"><strong>« Back to Homepage</strong></a>
   </p>
 </div>
 
