@@ -10,13 +10,14 @@
     All my code :computer: , visuals :bar_chart: , and projects :chart_with_upwards_trend: are listed here!
     <br />
       <br>
-      <sub><sup>[ PROJECT FOLDER LINKS ]</sup></sub>
+      <sub><sup>:arrow_down: [ PROJECT FOLDER LINKS ] :arrow_down:</sup></sub>
     <br />
     <a href="https://github.com/CameronCSS/SQL-Queries" target="_blank">SQL Queries</a>
     :small_blue_diamond:
     <a href="https://github.com/CameronCSS/Data-Analysis" target="_blank">Data Visuals</a>
     :small_blue_diamond:
     <a href="https://github.com/CameronCSS/Programming-Languages" target="_blank">Programming Code</a>
+    <br>
     <br>
     <sub><a href="#Contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
 <br>
