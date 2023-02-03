@@ -3,7 +3,6 @@
 <br />
 <div align="center">
     <img src="https://avatars.githubusercontent.com/u/121735588?v=4" alt="Logo" width="200" height="200">
-	<br><a href="https://github.com/CameronCSS"><strong><sub>« View Github Profile</sub></strong></a>
 
 
   <h3 align="center">Welcome to My Portfolio</h3>
@@ -21,6 +20,7 @@
     <sub><a href="#Contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
 <br>
     <br>
+<a href="https://github.com/CameronCSS"><strong><sub>« View Github Profile</sub></strong></a>
   </p>
 </div>
 
