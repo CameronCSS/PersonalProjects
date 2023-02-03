@@ -10,7 +10,7 @@
     All my code :computer: , visuals :bar_chart: , and projects :chart_with_upwards_trend: are listed here!
     <br />
       <br>
-      <sub><sup>:arrow_down: [ PROJECT FOLDER LINKS ] :arrow_down:</sup></sub>
+      <sub><sup>:arrow_down: [ PROJECT FOLDERS ] :arrow_down:</sup></sub>
     <br />
     <a href="https://github.com/CameronCSS/SQL-Queries" target="_blank">SQL Queries</a>
     :small_blue_diamond:
