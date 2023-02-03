@@ -2,12 +2,14 @@
 
 <br />
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/121735588?v=4" alt="Logo" width="150" height="150">
+    <img src="https://avatars.githubusercontent.com/u/121735588?v=4" alt="Logo" width="200" height="200">
+	<br><a href="https://github.com/CameronCSS"><strong><sub>« View Github Profile</sub></strong></a>
+
 
   <h3 align="center">Welcome to My Portfolio</h3>
 
   <p align="center">
-    All my code :computer: , visuals :bar_chart: , and projects :chart_with_upwards_trend: are listed here!
+    All my code :computer: , visuals :bar_chart: , and projects :chart_with_upwards_trend: are listed here.
     <br />
     <br />
     <a href="#SQL-Queries" target="_blank">SQL Queries</a>
@@ -19,7 +21,6 @@
     <sub><a href="#Contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
 <br>
     <br>
-     <a href="https://github.com/CameronCSS"><strong>« View Github Profile</strong></a>
   </p>
 </div>
 
@@ -40,7 +41,6 @@
     <ul><li>Programming Experience</li></ul>
     <ul><li>Python code sample</li></ul>
     <br>
-    <li><a href="#Currently-working-on">Currently working on</a></li>
     <li><a href="#About">About Me</a></li>
     <li><a href="#Contact">Contact</a></li>
     <li><a href="#Contact">Resume</a></li>
@@ -48,7 +48,6 @@
 </details>
 
 
-# PROJECTS
 <a name="SQL-Queries"></a>
 # SQL Queries
 	
@@ -56,29 +55,19 @@
 <summary>View all my SQL Projects</summary>
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
 <br>
-:arrow_right_hook: - Explored complex queries to clean data, compute customer figures, and organize data in unusual ways.
+&nbsp; &nbsp;:arrow_right_hook: - Explored complex queries to clean data, compute customer figures, and organize data in unusual ways.
 <br>
 <br>
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/Khan%20Academy%20Advanced%20SQL" target="new">Khan Academy Advanced SQL</a>
 <br>
-:arrow_right_hook: - Expand SQL knowledge about combining tables with JOINs and using multiple queries at once.
+&nbsp; &nbsp;:arrow_right_hook: - Expand SQL knowledge about combining tables with JOINs and using multiple queries at once.
 <br>
 <br>
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/SQLbolt%20-%20SQL%20lessons" target="new">SQLbolt - SQL lessons</a>
 <br>
-:arrow_right_hook: - Refreshed foundational understanding of SQL and discovered context variations among SQL-powered platforms.
+&nbsp; &nbsp;:arrow_right_hook: - Refreshed foundational understanding of SQL and discovered context variations among SQL-powered platforms.
 <br>
 
-</details>
-
-----
-
-<details open>
-<summary> SQL Experience</summary>
-:ballot_box_with_check: Google data analytics professional certificate
- <br> :ballot_box_with_check: Completed Khan Academy - Intro to SQL Course
- <br> :ballot_box_with_check: Finished the SQLBolt - Learn SQL Training
- <br> :ballot_box_with_check: Case Study 'Data with Danny' 8 Week SQL Challenge
 </details>
 
 ----
@@ -136,34 +125,23 @@ _Full project_ :arrow_right:
 <summary>View all my Data Projects</summary>
 <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Power-BI-Dashboards" target="new">Power BI Dashboards</a>
 <br>
-:arrow_right_hook: - Collection of my Power BI projects/dashboards with detailed analysis and visually appealing data.
+&nbsp; &nbsp;:arrow_right_hook: - Collection of my Power BI projects/dashboards with detailed analysis and visually appealing data.
 <br>
 <br>
 <a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">Netflix Movies and TV Shows</a>
 <br>
-:arrow_right_hook: - Built out multiple sheets to display on a single visual, and created an interactive dashboard.
+&nbsp; &nbsp;:arrow_right_hook: - Built out multiple sheets to display on a single visual, and created an interactive dashboard.
 <br>	
 <br>	
 <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Sales%20Performance%20Review" target="new">Sales Performance Review</a>
 <br>
-:arrow_right_hook: - Used Power BI to clean and organize data to present to upper management about previous years sales performance.
+&nbsp; &nbsp;:arrow_right_hook: - Used Power BI to clean and organize data to present to upper management about previous years sales performance.
 <br>	
 <br>
 <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/SLC%20civilian%20complaints" target="new">SLC civilian complaints</a>
   <br>
-:arrow_right_hook: - Utilized API calls to gather data from public sources. Built a local DB to use in Power BI to uncover valuable insights.
+&nbsp; &nbsp;:arrow_right_hook: - Utilized API calls to gather data from public sources. Built a local DB to use in Power BI to uncover valuable insights.
   <br>
-</details>
-
-----
-
-<details open>
-<summary> Data Analysis Experience</summary>
-:ballot_box_with_check: Power BI / Tableau Visual Reports
-<br> :ballot_box_with_check: Data Cleaning and transforming
-<br> :ballot_box_with_check: API pulls and database building
-<br> :ballot_box_with_check: Full analysis and reports on data
-<br> :ballot_box_with_check: Buidling finished Dashboards
 </details>
 
 ----
@@ -195,17 +173,7 @@ _Full project_ :arrow_right: <a href="https://cameroncss.github.io/Data-Analysis
 <summary>View all my Programming Projects</summary>
 <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
 
-:arrow_right_hook: - Learned the power of Pandas and PyQt5 libraries. Also learned the importance of notating code for Bug fixing in the future.
-</details>
-
-----
-
-<details open>
-<summary> Programming Experience</summary>
-:ballot_box_with_check: Google data analytics professional certificate (*R) 
-<br> :ballot_box_with_check: Completed Kaggle 'Intro to Programming' Course
-<br> :ballot_box_with_check: Built out a few simple programs in Python through Self Learning
-<br> :ballot_box_with_check: C# app building in High School
+&nbsp; &nbsp;:arrow_right_hook: - Learned the power of Pandas and PyQt5 libraries. Also learned the importance of notating code for Bug fixing in the future.
 </details>
 
 ----
@@ -231,14 +199,6 @@ _Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
     
   -------
-
-<a name="Currently-working-on"></a>
-## Currently working on
-
-- 📊 Power BI Deep dive - I am currently building several reports in Power BI to showcase my personal understanding of what it can do
-- 📝 I’m currently working on a report about <a href = "https://github.com/CameronCSS/Data-Analysis/tree/main/SLC%20Homless%20Data"> **SLC Homeless numbers </a> after shutting down Homeless Centers**
-- :soon: Finishing up Week #2 of the <a href ="https://github.com/CameronCSS/SQL-Projects/tree/main/8%20Week%20SQL%20Challenge%20%23%201"> 8 Week SQL Challenge </a> with SQL query answer breakdowns.
-- ⚡ Expanding my knowledge of Python and pandas library**
   
 <a name="About"></a>  
 ## About Me
