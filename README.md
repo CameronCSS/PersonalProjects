@@ -51,19 +51,9 @@
 # PROJECTS
 <a name="SQL-Queries"></a>
 # SQL Queries
-
-<details open>
-<summary> SQL Experience</summary>
-:ballot_box_with_check: Google data analytics professional certificate
- <br> :ballot_box_with_check: Completed Khan Academy - Intro to SQL Course
- <br> :ballot_box_with_check: Finished the SQLBolt - Learn SQL Training
- <br> :ballot_box_with_check: Case Study 'Data with Danny' 8 Week SQL Challenge
-</details>
-
-----
 	
 <details>
-<summary>View SQL Projects</summary>
+<summary>View all my SQL Projects</summary>
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">8 Week SQL Challenge # 1</a>
 <br>
 :arrow_right_hook: - Explored complex queries to clean data, compute customer figures, and organize data in unusual ways.
@@ -83,14 +73,20 @@
 
 ----
 
-<details> 
-<summary>View SQL Query sample</summary>
+<details open>
+<summary> SQL Experience</summary>
+:ballot_box_with_check: Google data analytics professional certificate
+ <br> :ballot_box_with_check: Completed Khan Academy - Intro to SQL Course
+ <br> :ballot_box_with_check: Finished the SQLBolt - Learn SQL Training
+ <br> :ballot_box_with_check: Case Study 'Data with Danny' 8 Week SQL Challenge
+</details>
 
-:small_blue_diamond: Danny's Diner wants to use data to answer a few simple questions about his customers.
-<br> :small_blue_diamond: You need to use SQL queries to give him the answers to best help his business.
+----
 
+<details open> 
+<summary>SQL Query sample</summary>
 
-#### The Challenge
+#### The Question
 ```
 In the first week after a customer joins 
 the member points program (including their join date) 
@@ -136,19 +132,8 @@ _Full project_ :arrow_right:
 <a name="Data-Analysis"></a>
 # Data Analysis / Visuals
 
-<details open>
-<summary> Data Analysis Experience</summary>
-:ballot_box_with_check: Power BI / Tableau Visual Reports
-<br> :ballot_box_with_check: Data Cleaning and transforming
-<br> :ballot_box_with_check: API pulls and database building
-<br> :ballot_box_with_check: Full analysis and reports on data
-<br> :ballot_box_with_check: Buidling finished Dashboards
-</details>
-
-----
-
 <details>
-<summary>View Data Projects</summary>
+<summary>View all my Data Projects</summary>
 <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Power-BI-Dashboards" target="new">Power BI Dashboards</a>
 <br>
 :arrow_right_hook: - Collection of my Power BI projects/dashboards with detailed analysis and visually appealing data.
@@ -172,11 +157,20 @@ _Full project_ :arrow_right:
 
 ----
 
-<details>
-<summary>View Data Visualization sample</summary>
+<details open>
+<summary> Data Analysis Experience</summary>
+:ballot_box_with_check: Power BI / Tableau Visual Reports
+<br> :ballot_box_with_check: Data Cleaning and transforming
+<br> :ballot_box_with_check: API pulls and database building
+<br> :ballot_box_with_check: Full analysis and reports on data
+<br> :ballot_box_with_check: Buidling finished Dashboards
+</details>
 
+----
 
-### [ Description ]
+<details open>
+<summary>Data Visualization sample</summary>
+	<br>
   :small_blue_diamond: This dashboard was built with Tableau public using public Netflix date up to 2020.
     <br>
     <br>
@@ -197,6 +191,15 @@ _Full project_ :arrow_right: <a href="https://cameroncss.github.io/Data-Analysis
  <a name="Programming"></a>  
 # Programming languages / Code
 
+<details>
+<summary>View all my Programming Projects</summary>
+<a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
+
+:arrow_right_hook: - Learned the power of Pandas and PyQt5 libraries. Also learned the importance of notating code for Bug fixing in the future.
+</details>
+
+----
+
 <details open>
 <summary> Programming Experience</summary>
 :ballot_box_with_check: Google data analytics professional certificate (*R) 
@@ -206,74 +209,20 @@ _Full project_ :arrow_right: <a href="https://cameroncss.github.io/Data-Analysis
 </details>
 
 ----
-
-<details>
-<summary>View Programming Projects</summary>
-<a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
-
-:arrow_right_hook: - Learned the power of Pandas and PyQt5 libraries. Also learned the importance of notating code for Bug fixing in the future.
-</details>
-
-----
 	
-<details>
-<summary>View Python code sample</summary>
-
-### [ Description ]
+<details open>
+<br>
+<summary>Python code sample</summary>
 
 :small_blue_diamond: A Simple Python code that Creates a UI and then calculates your Wages/Bills
 
- <br>
 [ Demonstration ] :arrow_heading_down:
  <br>
  <br>
 
 
 ![wage-calculator (3)](https://user-images.githubusercontent.com/121735588/211175350-f105e7f0-e049-4288-925c-4c9c8fa92d97.gif)
- 
- 
-<br>
-  [ Code snippet ] :arrow_heading_down:
-<br>
-<br>
-    
-```python
-# create the add bill button
-		self.add_bill_button = QPushButton('Add Bill')
-		self.add_bill_button.clicked.connect(self.add_bill)
-		self.bills_layout.addWidget(self.add_bill_button)
-		
-		# create the calculated income label
-		self.calculated_income_label = QLabel('Calculated Income: 0.00')
-		self.bills_layout.addWidget(self.calculated_income_label)
-		
-		# create the remaining balance label
-		self.remaining_balance_label = QLabel('Remaining Balance: 0.00')
-		self.bills_layout.addWidget(self.remaining_balance_label)
-		
-		# set the initial tab
-		self.tabs.setCurrentIndex(0)
-		
-	def calculate_income(self):
-		# calculate the income
-		try:
-			hourly_wage = float(self.hourly_wage_input.text())
-			hours_worked = float(self.hours_worked_input.text())
-			
-			calculated_income = hourly_wage * hours_worked
-			
-			self.calculated_income_label.setText('Calculated Income: {:.2f}'.format(calculated_income))
-			
-			self.remaining_balance = calculated_income
-			self.remaining_balance_label.setText('Remaining Balance: {:.2f}'.format(self.remaining_balance))
-			
-			self.tabs.setCurrentIndex(1)
-		except:
-			pass
 
-```
-
-<br>
 
 _Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
 
