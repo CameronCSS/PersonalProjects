@@ -113,7 +113,7 @@ _Full project_ :arrow_right:
 <details open>
 <summary>Sales Report Visualization sample</summary>
 	<br>
-  :small_blue_diamond: The Adventure Works database includes data for a fictional bicycle manufacturer and includes data such as sales, production, purchasing, and human resources information. 
+  :small_blue_diamond: Created a dashboard for a fictional manager using the Adventure Works sample database, which involved restoring the database, identifying data needs, cleaning and transforming the data, and importing it into Power BI.
 <br>
 <br>I broke down the entire process of building the Dashboard from scratch by restoring the database, identifying data needs, cleaning and transforming the data, building the dashboard with a pleasing number of visuals, and publishing the final product to Power BI services.
 <br>
