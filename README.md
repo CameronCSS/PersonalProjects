@@ -35,7 +35,7 @@
     <br>
     <li><a href="#Data-Analysis">Data Analysis / Visuals</a></li>
     <ul><li>Analysis Experience</li></ul>
-    <ul><li>Data Visualization sample</li></ul>
+    <ul><li>Sales Report Visualization sample</li></ul>
     <br>
     <li><a href="#Programming">Programming languages / Code</a></li>
     <ul><li>Programming Experience</li></ul>
@@ -116,6 +116,9 @@ _Full project_ :arrow_right:
   :small_blue_diamond: The Adventure Works database includes data for a fictional bicycle manufacturer and includes data such as sales, production, purchasing, and human resources information. 
 <br>
 <br>I broke down the entire process of building the Dashboard from scratch by restoring the database, identifying data needs, cleaning and transforming the data, building the dashboard with a pleasing number of visuals, and publishing the final product to Power BI services.
+<br>
+<br>
+View the <a href ="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/AdventureWorks/README.md">Full Breakdown</a>
     <br>
     <br>
 View the <a href ="https://app.powerbi.com/reportEmbed?reportId=b0fcfc95-aa85-4802-b47f-7e0fb300a481&autoAuth=true&ctid=ac060c52-a55a-40ca-9f98-cef91bfc7881">Final Sales Report</a> on Power BI Web services. <sub><sup>*You will need to sign in to Power BI</sub></sup>
