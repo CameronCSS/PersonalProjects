@@ -118,10 +118,10 @@ _Full project_ :arrow_right:
 <br>I broke down the entire process of building the Dashboard from scratch by restoring the database, identifying data needs, cleaning and transforming the data, building the dashboard with a pleasing number of visuals, and publishing the final product to Power BI services.
 <br>
 <br>
-View the <a href ="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/AdventureWorks/README.md">Full Breakdown</a>
+:arrow_right: View the <a href ="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/AdventureWorks/README.md">Full Breakdown</a>
     <br>
     <br>
-View the <a href ="https://app.powerbi.com/reportEmbed?reportId=b0fcfc95-aa85-4802-b47f-7e0fb300a481&autoAuth=true&ctid=ac060c52-a55a-40ca-9f98-cef91bfc7881">Final Sales Report</a> on Power BI Web services. <sub><sup>*You will need to sign in to Power BI</sub></sup>
+:arrow_right: View the <a href ="https://app.powerbi.com/reportEmbed?reportId=b0fcfc95-aa85-4802-b47f-7e0fb300a481&autoAuth=true&ctid=ac060c52-a55a-40ca-9f98-cef91bfc7881">Final Sales Report</a> on Power BI Web services. <sub><sup>*You will need to sign in to Power BI</sub></sup>
 <br>
   :heavy_minus_sign: 
   <br>
@@ -132,11 +132,6 @@ View the <a href ="https://app.powerbi.com/reportEmbed?reportId=b0fcfc95-aa85-48
   ![image](https://user-images.githubusercontent.com/121735588/216891607-ff81e7a6-bf0b-4e6a-9531-7898513d155d.png)
 
 
-
-_Full project_ :arrow_right: <a href="https://cameroncss.github.io/Data-Analysis/Netflix/index.html" target="new">_Netflix Movies and TV Shows_</a>
-   <br>
-        <sub>_*Click for full interactive dashboard_</sub>
-    <br>
 </details>
 	
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
