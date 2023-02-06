@@ -111,13 +111,22 @@ _Full project_ :arrow_right:
 ----
 
 <details open>
-<summary>Data Visualization sample</summary>
+<summary>Sales Report Visualization sample</summary>
 	<br>
-  :small_blue_diamond: This dashboard was built with Tableau public using public Netflix date up to 2020.
+  :small_blue_diamond: The Adventure Works database includes data for a fictional bicycle manufacturer and includes data such as sales, production, purchasing, and human resources information. 
+<br>
+<br>I broke down the entire process of building the Dashboard from scratch by restoring the database, identifying data needs, cleaning and transforming the data, building the dashboard with a pleasing number of visuals, and publishing the final product to Power BI services.
     <br>
     <br>
-    
-[![Netflix](https://user-images.githubusercontent.com/121735588/215313601-be1ab656-af52-49a0-86a4-2b1a42910aec.png)](https://cameroncss.github.io/Data-Analysis/Netflix/index.html)
+View the <a href ="https://app.powerbi.com/reportEmbed?reportId=b0fcfc95-aa85-4802-b47f-7e0fb300a481&autoAuth=true&ctid=ac060c52-a55a-40ca-9f98-cef91bfc7881">Final Sales Report</a> on Power BI Web services. <sub><sup>*You will need to sign in to Power BI</sub></sup>
+<br>
+  :heavy_minus_sign: 
+  <br>
+  [Dashboard Preivew] :arrow_heading_down:
+  <br>
+  <br>
+  
+  ![image](https://user-images.githubusercontent.com/121735588/216891607-ff81e7a6-bf0b-4e6a-9531-7898513d155d.png)
 
 
 
