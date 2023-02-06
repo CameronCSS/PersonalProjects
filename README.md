@@ -121,7 +121,7 @@ _Full project_ :arrow_right:
 :arrow_right: View the <a href ="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/AdventureWorks/README.md">Full Breakdown</a>
     <br>
     <br>
-:arrow_right: View the <a href ="https://app.powerbi.com/reportEmbed?reportId=b0fcfc95-aa85-4802-b47f-7e0fb300a481&autoAuth=true&ctid=ac060c52-a55a-40ca-9f98-cef91bfc7881">Final Sales Report</a> on Power BI Web services. <sub><sup>*You will need to sign in to Power BI</sub></sup>
+:arrow_right: View the <a href ="https://app.powerbi.com/reportEmbed?reportId=b0fcfc95-aa85-4802-b47f-7e0fb300a481&autoAuth=true&ctid=ac060c52-a55a-40ca-9f98-cef91bfc7881">Sales Report</a> on Power BI Web services. <sub><sup>*You will need to sign in to Power BI</sub></sup>
 <br>
   :heavy_minus_sign: 
   <br>
