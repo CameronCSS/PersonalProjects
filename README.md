@@ -179,7 +179,7 @@ Currently seeking new opportunities. <li><a href="#Contact">Contact Me</a></li>
 
 <img src="https://user-images.githubusercontent.com/121735588/215948404-4d1bd4c2-0758-46bf-bc08-52e78f0b4bc8.PNG" width="300">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&theme=transparent&langs_count=6)](https://github.com/CameronCSS)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&theme=transparent&langs_count=6)](https://cameroncss.com)
 <br>
 ![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=CameronCSS&show_icons=true&theme=transparent&hide=issues,contribs)
 
