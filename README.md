@@ -5,7 +5,7 @@
     <img src="https://avatars.githubusercontent.com/u/121735588?v=4" alt="Logo" width="200" height="200">
 
 
-  <h3 align="center">Welcome to My Portfolio</h3>
+  <h3 align="center">Welcome to My Github Portfolio</h3>
 
   <p align="center">
     All my code :computer: , visuals :bar_chart: , and projects :chart_with_upwards_trend: are listed here.
