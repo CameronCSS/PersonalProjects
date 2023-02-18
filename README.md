@@ -167,11 +167,8 @@ _Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-
   -------
   
 <a name="About"></a>  
-## About Me
+## <a href="https://cameroncss.com/#about">About Me</a>
 
-Strong problem solver, ability to identify and analyze complex issues, self motivated, endlessly looking to improve. My goal is to utilize my skills in SQL, Power BI, Tableau, and Python to turn complex data sets into easy to understand visuals that get everyone interested in the insights.
-
-Currently seeking new opportunities. <li><a href="#Contact">Contact Me</a></li>
 
 ----
 
