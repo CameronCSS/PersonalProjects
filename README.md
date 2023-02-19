@@ -187,7 +187,7 @@ _Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-
   <img height="45" width="45" src="https://cdn.simpleicons.org/adobephotoshop/" />
   <img height="45" width="45" src="https://cdn.simpleicons.org/blender/" />
   <img height="45" width="45" src="https://cdn.simpleicons.org/VisualStudio/" />
-  <img height="45" width="45" src="https://cdn.simpleicons.org/github/white" />
+  <img height="45" width="45" src="https://cdn.simpleicons.org/github/lightgray" />
 </div>
 
 <br>
