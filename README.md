@@ -174,7 +174,23 @@ _Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://user-images.githubusercontent.com/121735588/215948404-4d1bd4c2-0758-46bf-bc08-52e78f0b4bc8.PNG" width="300">
+<div style="display: flex; flex-wrap: wrap;">
+  <img height="45" width="45" src="https://cdn.simpleicons.org/MySQL/" />
+  <img height="45" width="45" src="https://cdn.simpleicons.org/Python/" />
+  <img height="45" width="45" src="https://cdn.simpleicons.org/JavaScript/" />
+  <img height="45" width="45" src="https://cdn.simpleicons.org/Tableau/" />
+  <img height="45" width="45" src="https://cdn.simpleicons.org/Powerbi" />
+  <img height="45" width="45" src="https://cdn.simpleicons.org/react" />
+  <br>
+  <img height="45" width="45" src="https://cdn.simpleicons.org/MicrosoftExcel/" />
+  <img height="45" width="45" src="https://cdn.simpleicons.org/r/" />
+  <img height="45" width="45" src="https://cdn.simpleicons.org/adobephotoshop/" />
+  <img height="45" width="45" src="https://cdn.simpleicons.org/blender/" />
+  <img height="45" width="45" src="https://cdn.simpleicons.org/VisualStudio/" />
+  <img height="45" width="45" src="https://cdn.simpleicons.org/github" />
+</div>
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&theme=transparent&langs_count=6)](https://cameroncss.com)
 <br>
