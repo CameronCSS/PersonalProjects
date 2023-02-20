@@ -57,7 +57,9 @@
 
 ----
 
-<details open> 
+<sub>**Click arrow to view content*</sub>
+
+<details> 
 <summary>SQL Query sample</summary>
 
 #### The Question
@@ -109,8 +111,9 @@ _Full project_ :arrow_right:
 #### :arrow_forward:<a href="https://github.com/CameronCSS/Data-Analysis/blob/main/README.md"> View all my Data Projects</a>
 
 ----
+<sub>**Click arrow to view content*</sub>
 
-<details open>
+<details>
 <summary>Sales Report Visualization sample</summary>
 	<br>
   :small_blue_diamond: Created a dashboard for a fictional manager using the Adventure Works sample database, which involved restoring the database, identifying data needs, cleaning and transforming the data, and importing it into Power BI.
@@ -143,8 +146,8 @@ _Full project_ :arrow_right:
 #### :arrow_forward:<a href="https://github.com/CameronCSS/Programming-Languages/blob/main/README.md"> View all my Programming Projects</a>
 
 ----
-	
-<details open>
+<sub>**Click arrow to view content*</sub>	
+<details>
 <br>
 <summary>Python code sample</summary>
 
