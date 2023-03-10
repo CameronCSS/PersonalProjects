@@ -54,10 +54,13 @@
 #### :arrow_forward:<a href="https://github.com/CameronCSS/Data-Analysis"> View all my Data Projects</a>
 
 ----
+
+## :small_red_triangle_down: Sample
+
 <sub>**Click arrow to view content*</sub>
 
 <details>
-<summary>Sales Report Visualization sample</summary>
+<summary>Sales Report Visualization</summary>
 	<br>
   :small_blue_diamond: Created a dashboard for a fictional manager using the Adventure Works sample database, which involved restoring the database, identifying data needs, cleaning and transforming the data, and importing it into Power BI.
 <br>
@@ -89,10 +92,12 @@
 #### :arrow_forward:<a href="https://github.com/CameronCSS/Programming-Languages"> View all my Programming Projects</a>
 
 ----
+
+## :small_red_triangle_down: Sample
 <sub>**Click arrow to view content*</sub>	
 <details>
 <br>
-<summary>Python code sample</summary>
+<summary>Python code</summary>
 
 :small_blue_diamond: A Simple Python code that Creates a UI and then calculates your Wages/Bills
 
@@ -120,10 +125,12 @@ _Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-
 
 ----
 
+## :small_red_triangle_down: Sample
+
 <sub>**Click arrow to view content*</sub>
 
 <details> 
-<summary>SQL Query sample</summary>
+<summary>SQL Query</summary>
 
 #### The Question
 ```
