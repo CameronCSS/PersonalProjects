@@ -17,7 +17,7 @@
     :small_blue_diamond:
     <a href="#Programming" target="_blank">Programming Code</a>
     <br>
-    <sub><a href="#Contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
+    <sub><a href="https://cameroncss.com/#contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
 <br>
     <br>
 <a href="https://github.com/CameronCSS"><strong><sub>« View Github Profile</sub></strong></a>
@@ -41,9 +41,9 @@
     <ul><li>Programming Experience</li></ul>
     <ul><li>Python code sample</li></ul>
     <br>
-    <li><a href="#About">About Me</a></li>
-    <li><a href="#Contact">Contact</a></li>
-    <li><a href="#Contact">Resume</a></li>
+    <li><a href="https://cameroncss.com/#about">About Me</a></li>
+    <li><a href="https://cameroncss.com/#contact">Contact</a></li>
+    <li><a href="Contact">Resume</a></li>
     </ul>
 </details>
 
