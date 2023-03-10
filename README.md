@@ -103,7 +103,8 @@
 	
 _Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
 
-
+:heavy_minus_sign:
+	
 [ Demonstration ] :arrow_heading_down:
  <br>
  <br>
@@ -142,6 +143,8 @@ _Full project_ :arrow_right:
 <a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">_"8 Week SQL Challenge #1"_</a>
 	
 <br>
+	
+:heavy_minus_sign:
 	
 [Preview] :arrow_heading_down:
 
