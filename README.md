@@ -74,7 +74,7 @@
 <br>
   :heavy_minus_sign: 
   <br>
-  [Dashboard Preivew] :arrow_heading_down:
+  [Dashboard Preview] :arrow_heading_down:
   <br>
   <br>
   
@@ -100,6 +100,9 @@
 <summary>Python Wage Calculator</summary>
 
 :small_blue_diamond: A Simple Python code that Creates a UI and then calculates your Wages/Bills
+	
+_Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
+
 
 [ Demonstration ] :arrow_heading_down:
  <br>
@@ -108,8 +111,6 @@
 
 ![wage-calculator (3)](https://user-images.githubusercontent.com/121735588/211175350-f105e7f0-e049-4288-925c-4c9c8fa92d97.gif)
 
-
-_Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
 
 </details>
 
@@ -131,6 +132,18 @@ _Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-
 
 <details> 
 <summary>8 Week SQL Challenge</summary>
+	<br>
+	
+:small_blue_diamond: Complete list of Complex SQL queries to solve challenge questions for Week #1.
+	
+<br>
+	
+_Full project_ :arrow_right:
+<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">_"8 Week SQL Challenge #1"_</a>
+	
+<br>
+	
+[Preview] :arrow_heading_down:
 
 #### The Question
 ```
@@ -168,8 +181,7 @@ JOIN dates ON purchases.customer_id = dates.customer_id
 WHERE order_date < dates.last_day
 GROUP BY purchases.customer_id;
 ```
-_Full project_ :arrow_right:
-<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">_"8 Week SQL Challenge #1"_</a>
+
 </details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
