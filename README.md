@@ -60,7 +60,7 @@
 <sub>**Click arrow to view content*</sub>
 
 <details>
-<summary>Sales Report Visualization</summary>
+<summary>Adventure Works Dashboard</summary>
 	<br>
   :small_blue_diamond: Created a dashboard for a fictional manager using the Adventure Works sample database, which involved restoring the database, identifying data needs, cleaning and transforming the data, and importing it into Power BI.
 <br>
@@ -97,7 +97,7 @@
 <sub>**Click arrow to view content*</sub>	
 <details>
 <br>
-<summary>Python code</summary>
+<summary>Python Wage Calculator</summary>
 
 :small_blue_diamond: A Simple Python code that Creates a UI and then calculates your Wages/Bills
 
@@ -130,7 +130,7 @@ _Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-
 <sub>**Click arrow to view content*</sub>
 
 <details> 
-<summary>SQL Query</summary>
+<summary>8 Week SQL Challenge</summary>
 
 #### The Question
 ```
