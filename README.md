@@ -52,7 +52,7 @@
 # SQL Queries
 	
 
-#### :arrow_forward:<a href="https://github.com/CameronCSS/SQL-Queries/blob/main/README.md"> View all my SQL Projects</a>
+#### :arrow_forward:<a href="https://github.com/CameronCSS/SQL-Queries"> View all my SQL Projects</a>
 
 
 ----
@@ -108,7 +108,7 @@ _Full project_ :arrow_right:
 <a name="Data-Analysis"></a>
 # Data Analysis / Visuals
 
-#### :arrow_forward:<a href="https://github.com/CameronCSS/Data-Analysis/blob/main/README.md"> View all my Data Projects</a>
+#### :arrow_forward:<a href="https://github.com/CameronCSS/Data-Analysis"> View all my Data Projects</a>
 
 ----
 <sub>**Click arrow to view content*</sub>
@@ -121,7 +121,7 @@ _Full project_ :arrow_right:
 <br>I broke down the entire process of building the Dashboard from scratch by restoring the database, identifying data needs, cleaning and transforming the data, building the dashboard with a pleasing number of visuals, and publishing the final product to Power BI services.
 <br>
 <br>
-:arrow_right: View the <a href ="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/AdventureWorks/README.md">Full Process Breakdown</a>
+:arrow_right: View the <a href ="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards">Full Process Breakdown</a>
     <br>
     <br>
 :arrow_right: View the <a href ="https://app.powerbi.com/reportEmbed?reportId=b0fcfc95-aa85-4802-b47f-7e0fb300a481&autoAuth=true&ctid=ac060c52-a55a-40ca-9f98-cef91bfc7881">Sales Report</a> on Power BI Web services. <sub><sup>*You will need to sign in to Power BI</sub></sup>
@@ -143,7 +143,7 @@ _Full project_ :arrow_right:
  <a name="Programming"></a>  
 # Programming languages / Code
 
-#### :arrow_forward:<a href="https://github.com/CameronCSS/Programming-Languages/blob/main/README.md"> View all my Programming Projects</a>
+#### :arrow_forward:<a href="https://github.com/CameronCSS/Programming-Languages"> View all my Programming Projects</a>
 
 ----
 <sub>**Click arrow to view content*</sub>	
