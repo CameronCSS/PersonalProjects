@@ -11,11 +11,11 @@
     All my code :computer: , visuals :bar_chart: , and projects :chart_with_upwards_trend: are listed here.
     <br />
     <br />
-    <a href="#Data-Analysis" target="_blank">Data Visuals</a>
+    <a href="https://github.com/CameronCSS/Data-Analysis" target="_blank">Data Visuals</a>
     :small_blue_diamond:
-    <a href="#SQL-Queries" target="_blank">SQL Queries</a>
+    <a href="https://github.com/CameronCSS/SQL-Queries" target="_blank">SQL Queries</a>
     :small_blue_diamond:
-    <a href="#Programming" target="_blank">Programming Code</a>
+    <a href="https://github.com/CameronCSS/Programming-Languages" target="_blank">Programming Code</a>
     <br>
     <sub><a href="https://cameroncss.com/#contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
 <br>
