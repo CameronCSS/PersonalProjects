@@ -43,7 +43,7 @@
     <br>
     <li><a href="https://cameroncss.com/#about">About Me</a></li>
     <li><a href="https://cameroncss.com/#contact">Contact</a></li>
-    <li><a href="Contact">Resume</a></li>
+    <li><a href="https://docs.google.com/document/d/1idTVL4nRGOejqW6EkpfhsD-dNQRLzmX08y5hI3TYLns/edit?usp=sharing">Resume</a></li>
     </ul>
 </details>
 
