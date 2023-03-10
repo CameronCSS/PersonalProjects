@@ -11,9 +11,9 @@
     All my code :computer: , visuals :bar_chart: , and projects :chart_with_upwards_trend: are listed here.
     <br />
     <br />
-    <a href="#SQL-Queries" target="_blank">SQL Queries</a>
-    :small_blue_diamond:
     <a href="#Data-Analysis" target="_blank">Data Visuals</a>
+    :small_blue_diamond:
+    <a href="#SQL-Queries" target="_blank">SQL Queries</a>
     :small_blue_diamond:
     <a href="#Programming" target="_blank">Programming Code</a>
     <br>
@@ -29,13 +29,13 @@
 <details>
   <summary>Table of Contents</summary>
     <ul>
-    <li><a href="#SQL-Queries">SQL Queries</a></li>
-    <ul><li>SQL Experience</li></ul>
-    <ul><li>SQL Query Sample</li></ul>
-    <br>
     <li><a href="#Data-Analysis">Data Analysis / Visuals</a></li>
     <ul><li>Analysis Experience</li></ul>
     <ul><li>Sales Report Visualization sample</li></ul>
+    <br>
+    <li><a href="#SQL-Queries">SQL Queries</a></li>
+    <ul><li>SQL Experience</li></ul>
+    <ul><li>SQL Query Sample</li></ul>
     <br>
     <li><a href="#Programming">Programming languages / Code</a></li>
     <ul><li>Programming Experience</li></ul>
@@ -46,63 +46,6 @@
     <li><a href="https://docs.google.com/document/d/1idTVL4nRGOejqW6EkpfhsD-dNQRLzmX08y5hI3TYLns/edit?usp=sharing">Resume</a></li>
     </ul>
 </details>
-
-
-<a name="SQL-Queries"></a>
-# SQL Queries
-	
-
-#### :arrow_forward:<a href="https://github.com/CameronCSS/SQL-Queries"> View all my SQL Projects</a>
-
-
-----
-
-<sub>**Click arrow to view content*</sub>
-
-<details> 
-<summary>SQL Query sample</summary>
-
-#### The Question
-```
-In the first week after a customer joins 
-the member points program (including their join date) 
-they earn 2x points on all items, not just sushi - 
-how many points do customer A and B have at the end of January?
-```
-
-#### SQL Query
-```sql
-WITH dates AS 
-(
- SELECT *, 
-  DATEADD(DAY, 6, join_date) AS valid_date, 
-  EOMONTH('2021-01-31') AS last_day
- FROM members
-),
-purchases AS (
-  SELECT sales.customer_id, menu.product_name, menu.price, sales.order_date,
-         members.join_date,
-         (CASE
-         WHEN menu.product_name = 'sushi' THEN 2 * menu.price
-         WHEN sales.order_date BETWEEN members.join_date AND dates.valid_date THEN menu.price * 2
-            ELSE menu.price
-          END) * 10 AS points
-  FROM sales
-  JOIN menu ON sales.product_id = menu.product_id
-  JOIN members ON sales.customer_id = members.customer_id
-  JOIN dates ON members.customer_id = dates.customer_id
-)
-SELECT purchases.customer_id, SUM(points) as total_points
-FROM purchases
-JOIN dates ON purchases.customer_id = dates.customer_id
-WHERE order_date < dates.last_day
-GROUP BY purchases.customer_id;
-```
-_Full project_ :arrow_right:
-<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">_"8 Week SQL Challenge #1"_</a>
-</details>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ----
 <a name="Data-Analysis"></a>
@@ -166,14 +109,71 @@ _Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-
 </details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<a name="SQL-Queries"></a>
+# SQL Queries
+	
+
+#### :arrow_forward:<a href="https://github.com/CameronCSS/SQL-Queries"> View all my SQL Projects</a>
+
+
+----
+
+<sub>**Click arrow to view content*</sub>
+
+<details> 
+<summary>SQL Query sample</summary>
+
+#### The Question
+```
+In the first week after a customer joins 
+the member points program (including their join date) 
+they earn 2x points on all items, not just sushi - 
+how many points do customer A and B have at the end of January?
+```
+
+#### SQL Query
+```sql
+WITH dates AS 
+(
+ SELECT *, 
+  DATEADD(DAY, 6, join_date) AS valid_date, 
+  EOMONTH('2021-01-31') AS last_day
+ FROM members
+),
+purchases AS (
+  SELECT sales.customer_id, menu.product_name, menu.price, sales.order_date,
+         members.join_date,
+         (CASE
+         WHEN menu.product_name = 'sushi' THEN 2 * menu.price
+         WHEN sales.order_date BETWEEN members.join_date AND dates.valid_date THEN menu.price * 2
+            ELSE menu.price
+          END) * 10 AS points
+  FROM sales
+  JOIN menu ON sales.product_id = menu.product_id
+  JOIN members ON sales.customer_id = members.customer_id
+  JOIN dates ON members.customer_id = dates.customer_id
+)
+SELECT purchases.customer_id, SUM(points) as total_points
+FROM purchases
+JOIN dates ON purchases.customer_id = dates.customer_id
+WHERE order_date < dates.last_day
+GROUP BY purchases.customer_id;
+```
+_Full project_ :arrow_right:
+<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">_"8 Week SQL Challenge #1"_</a>
+</details>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
     
   -------
   
 <a name="About"></a>  
 ## <a href="https://cameroncss.com/#about">About Me</a>
 
-
-----
 
 <h3 align="left">Languages and Tools:</h3>
 
