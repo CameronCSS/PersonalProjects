@@ -199,28 +199,33 @@ GROUP BY purchases.customer_id;
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div>
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/MySQL" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Python/FFA800" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Tableau" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Powerbi" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/MicrosoftExcel" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/r" />
-<br>
-<br>
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/JavaScript" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/blender" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/react" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/VisualStudio" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/github/lightgray" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/adobephotoshop" />
-</div>
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&theme=transparent&langs_count=6)](https://cameroncss.com)
-<br>
-![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=CameronCSS&show_icons=true&theme=transparent&hide=issues,contribs)
+<table>
+  <tr>
+    <td>
+      <a href="https://cameroncss.com">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&theme=transparent&langs_count=6" alt="Top Langs" />
+      </a>
+    </td>
+    <td>
+      <div>
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/MySQL" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Python/FFA800" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Tableau" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Powerbi" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/MicrosoftExcel" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/r" />
+        <br>
+        <br>
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/JavaScript" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/blender" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/react" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/VisualStudio" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/github/lightgray" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/adobephotoshop" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <a name="Contact"></a> 
 ## <a href="https://cameroncss.com/#contact">Contact Me</a>
