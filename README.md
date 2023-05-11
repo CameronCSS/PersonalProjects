@@ -2,241 +2,133 @@
 
 <br />
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/121735588?v=4" alt="Logo" width="200" height="200">
 
 
-  <h3 align="center">Welcome to My Github Portfolio</h3>
+  <h3 align="center">👋 Welcome to My Github Portfolio</h3>
 
   <p align="center">
     All my code :computer: , visuals :bar_chart: , and projects :chart_with_upwards_trend: are listed here.
     <br />
-    <br />
-    <a href="https://github.com/CameronCSS/Data-Analysis" target="_blank">Data Visuals</a>
-    :small_blue_diamond:
-    <a href="https://github.com/CameronCSS/SQL-Queries" target="_blank">SQL Queries</a>
-    :small_blue_diamond:
-    <a href="https://github.com/CameronCSS/Programming-Languages" target="_blank">Programming Code</a>
     <br>
-    <sub><a href="https://cameroncss.com/#contact">:wavy_dash: Contact Info :wavy_dash:</a></sub>
+    <sub><a href="https://cameroncss.com/#contact">:wavy_dash: Contact Me :wavy_dash:</a></sub>
 <br>
-    <br>
-<a href="https://github.com/CameronCSS"><strong><sub>« View Github Profile</sub></strong></a>
   </p>
 </div>
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-    <ul>
-    <li><a href="#Data-Analysis">Data Analysis / Visuals</a></li>
-    <ul><li>Analysis Experience</li></ul>
-    <ul><li>Sales Report Visualization sample</li></ul>
-    <br>
-    <li><a href="#SQL-Queries">SQL Queries</a></li>
-    <ul><li>SQL Experience</li></ul>
-    <ul><li>SQL Query Sample</li></ul>
-    <br>
-    <li><a href="#Programming">Programming languages / Code</a></li>
-    <ul><li>Programming Experience</li></ul>
-    <ul><li>Python code sample</li></ul>
-    <br>
-    <li><a href="https://cameroncss.com/#about">About Me</a></li>
-    <li><a href="https://cameroncss.com/#contact">Contact</a></li>
-    <li><a href="https://drive.google.com/file/d/1YaM4hDtt2-79ShBVTN06Y3BU79LvFw6J/view?usp=sharing">Resume</a></li>
-    </ul>
-</details>
+## 📜 Table of Contents
+
+- <a href="#Excel">Excel</a>
+- <a href="#SQL-Queries">SQL</a></li>
+- <a href="#Power-Bi">Power BI</a>
+- <a href="#Tableau">Tableau</a>
+- <a href="#Python">Python and R</a>
+
 
 ----
-<a name="Data-Analysis"></a>
-# Data Analysis / Visuals
+<a name="Excel"></a>
+# Excel
 
-#### :arrow_forward:<a href="https://github.com/CameronCSS/Data-Analysis"> View all my Data Projects</a>
+:ballot_box_with_check: Experience in cleaning data both for projects and real world data sets
+ <br> :ballot_box_with_check: Knowledge in DAX and using custom formulas to alter data
+  <br> :ballot_box_with_check: Using VLOOKUP, HLOOKUP, and XLOOKUP to quickly alter and organize data
+ <br> :ballot_box_with_check: Understanding of Pivot Tables and their importance to displaying insights
+ <br> :ballot_box_with_check: Completed the Linkedin Excel assessment and Excel to SQL certification
 
-----
+| Project Link | Area of Study | Project Description | 
+|---|---|---|
+|<a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Excel%20Projects/Bike%20Sales%20Dashboard" target="new">🚲 Bike Sales Dashboard</a>| Pivot Tables, Pivot Charts, DAX Formulas, Data Buckets | Using a dataset from Alex the Analyst, Cleaned the data, altered columns to get data I need, used pivot tables and charts to build out a dashboard.|
+|<a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%201%20Customer%20Churn" target="new">🧈 Customer Churn</a>|Data Cleaning, Pivot Charts, Find and Replace, Insights and Business Solutions|Used a Dataset about customer churn to explore possible reasons customers cancelled service. Came up with possible solutions that need to be tested. But the Data points to several changes that could be made.|
+|<a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%203%20Employee%20Turnover" target="new">🏢 Employee Turnover</a>|Data Cleaning, Data Transform, Vlookup, Pivot Charts|Explored a dataset containing employee info and Satisfaction survey results. Let's see what Insights we can pull from the data.|
+|<a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%203%20Employee%20Turnover" target="new">😠 SLC civilian complaints</a>|Basic visualization, Data cleaning, comparison to external sources|I found that SLC has a website and app where residents can report complaints to the city. Explored the data for any interesting findings since I live so close to SLC the data seemed relevant|
+|<a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Sales%20Performance%20Review" target="new">📊 Sales Performance Review</a>|Data cleanup, Xlookup, pulling from multiple data sources|A 4 year Sales Breakdown across multiple locations|
 
-## :small_red_triangle_down: Sample
-
-<sub>**Click arrow to view content*</sub>
-
-<details>
-<summary>Adventure Works Dashboard</summary>
-	<br>
-  :small_blue_diamond: Created a dashboard for a fictional manager using the Adventure Works sample database, which involved restoring the database, identifying data needs, cleaning and transforming the data, and importing it into Power BI.
-<br>
-<br>I broke down the entire process of building the Dashboard from scratch by restoring the database, identifying data needs, cleaning and transforming the data, building the dashboard with a pleasing number of visuals, and publishing the final product to Power BI services.
-<br>
-<br>
-:arrow_right: View the <a href ="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards">Full Process Breakdown</a>
-    <br>
-    <br>
-:arrow_right: View the <a href ="https://app.powerbi.com/reportEmbed?reportId=b0fcfc95-aa85-4802-b47f-7e0fb300a481&autoAuth=true&ctid=ac060c52-a55a-40ca-9f98-cef91bfc7881">Sales Report</a> on Power BI Web services. <sub><sup>*You will need to sign in to Power BI</sub></sup>
-<br>
-  :heavy_minus_sign: 
-  <br>
-  [Dashboard Preview] :arrow_heading_down:
-  <br>
-  <br>
-  
-  ![image](https://user-images.githubusercontent.com/121735588/216891607-ff81e7a6-bf0b-4e6a-9531-7898513d155d.png)
-
-
-</details>
 	
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
     
-----
- <a name="Programming"></a>  
-# Programming languages / Code
-
-#### :arrow_forward:<a href="https://github.com/CameronCSS/Programming-Languages"> View all my Programming Projects</a>
-
-----
-
-## :small_red_triangle_down: Sample
-<sub>**Click arrow to view content*</sub>	
-<details>
-<br>
-<summary>Python Wage Calculator</summary>
-
-:small_blue_diamond: A Simple Python code that Creates a UI and then calculates your Wages/Bills
-	
-_Full project_ :arrow_right: <a href="https://github.com/CameronCSS/Programming-Languages/tree/main/Python%20Wage%20Calculator" target="new">Python Wage Calculator</a>
-
-:heavy_minus_sign:
-	
-[ Demonstration ] :arrow_heading_down:
- <br>
- <br>
-
-
-![wage-calculator (3)](https://user-images.githubusercontent.com/121735588/211175350-f105e7f0-e049-4288-925c-4c9c8fa92d97.gif)
-
-
-</details>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+---
 
 <a name="SQL-Queries"></a>
 # SQL Queries
+
+:ballot_box_with_check: Data cleaning and data exploring
+<br> :ballot_box_with_check: Experienced with Syntax in MS SQL, PostgreSQL, MySQL
+<br> :ballot_box_with_check: Google data analytics professional certificate
+ <br> :ballot_box_with_check: Completed Khan Academy - Intro to SQL Course
+ <br> :ballot_box_with_check: CTEs, CASE WHEN, Advanced SQL subqueries
 	
+| Project Link | Area of Study | Project Description | 
+|---|---|---|
+|<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">🍜 8 Week SQL Challenge # 1</a>|Creating Tables, Joins, CTEs, and Date expressions|Explored complex queries to clean data, compute customer figures, and organize data in unusual ways.|
+|<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/Data%20Lemur%20SQL%20Questions" target="new">🐒 Data Lemur SQL Questions</a>|CTEs, CASE WHEN, subqueries, advanced JOINs, SQL Optimization|Easy, Medium, and Hard SQL questions with multiple joins, subqueries, aggregations, as well as advanced SQL functions and optimization techniques available from Data Lemur|
+|<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/Khan%20Academy%20Advanced%20SQL" target="new">🎓 Khan Academy Advanced SQL</a>|TABLE INSERT and DELETE, GROUP BY, HAVING, CASE WHEN, multiple JOINs|SQL Queries begin with basic concepts and advance to more complex topics as we progress.|
+|<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/SQLbolt%20-%20SQL%20lessons" target="new">⚡ SQLbolt - SQL lessons</a>|Basics of SQL, SELECT, FROM, WHERE, ORDER BY, JOINs, Aggregations, INSERT, DROP, DELETE|This collection of SQL queries was learned from [SQLbolt](https://sqlbolt.com/), a website that provides interactive tutorials to help users learn SQL (Structured Query Language) and improve their skills.|
 
-#### :arrow_forward:<a href="https://github.com/CameronCSS/SQL-Queries"> View all my SQL Projects</a>
-
-
-----
-
-## :small_red_triangle_down: Sample
-
-<sub>**Click arrow to view content*</sub>
-
-<details> 
-<summary>8 Week SQL Challenge</summary>
-	<br>
-	
-:small_blue_diamond: Complete list of Complex SQL queries to solve challenge questions for Week #1.
-	
-<br>
-	
-_Full project_ :arrow_right:
-<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/8%20Week%20SQL%20Challenge%20%23%201" target="new">_"8 Week SQL Challenge #1"_</a>
-	
-<br>
-	
-:heavy_minus_sign:
-	
-[Preview] :arrow_heading_down:
-
-#### The Question
-```
-In the first week after a customer joins 
-the member points program (including their join date) 
-they earn 2x points on all items, not just sushi - 
-how many points do customer A and B have at the end of January?
-```
-
-#### SQL Query
-```sql
-WITH dates AS 
-(
- SELECT *, 
-  DATEADD(DAY, 6, join_date) AS valid_date, 
-  EOMONTH('2021-01-31') AS last_day
- FROM members
-),
-purchases AS (
-  SELECT sales.customer_id, menu.product_name, menu.price, sales.order_date,
-         members.join_date,
-         (CASE
-         WHEN menu.product_name = 'sushi' THEN 2 * menu.price
-         WHEN sales.order_date BETWEEN members.join_date AND dates.valid_date THEN menu.price * 2
-            ELSE menu.price
-          END) * 10 AS points
-  FROM sales
-  JOIN menu ON sales.product_id = menu.product_id
-  JOIN members ON sales.customer_id = members.customer_id
-  JOIN dates ON members.customer_id = dates.customer_id
-)
-SELECT purchases.customer_id, SUM(points) as total_points
-FROM purchases
-JOIN dates ON purchases.customer_id = dates.customer_id
-WHERE order_date < dates.last_day
-GROUP BY purchases.customer_id;
-```
-
-</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-    
-  -------
+---
   
-<a name="About"></a>  
-## <a href="https://cameroncss.com/#about">About Me</a>
+ <a name="Power-Bi"></a>  
+# Power BI
 
+:ballot_box_with_check: Experience in building live dashboards
+ <br> :ballot_box_with_check: Knowledge in using various dataflow and import methods to showcase live data
+ <br> :ballot_box_with_check: Developed reports for company management showcasing sales performance over the last four years.
+ <br> :ballot_box_with_check: Completed the DataCamp Intro to Power BI course
 
-<h3 align="left">Languages and Tools:</h3>
+| Project Link | Area of Study | Project Description | Dashboard Link |
+|---|---|---|---|
+|<a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/AdventureWorks/README.md" target="new">🚧 Adventure Works Dashboard</a>|MS SQL database, Clean and prep with SQL, Custom Measures and DAX Formulas, Advanced Design within Power BI using image elements, navigation, bookmarks, filtering. |Created a dashboard for a fictional manager using the Adventure Works sample database, which involved restoring the database, identifying data needs, cleaning and transforming the data, and importing it into Power BI.|<a href="https://app.powerbi.com/view?r=eyJrIjoiMjkzMDI1MDUtZmI4NS00ZDQyLWJjNmEtYjhlNzM2NTJiNjRmIiwidCI6ImFjMDYwYzUyLWE1NWEtNDBjYS05Zjk4LWNlZjkxYmZjNzg4MSIsImMiOjF9" target="new">Dashboard Link</a>|
+|<a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/Data%20Professional%20Survey/README.md" target="new">📑 Data Professional Survey</a>|KPI, navigation, Charting, and Filtering|<a href="https://www.youtube.com/@AlexTheAnalyst">Alex the Analyst</a> conducted a survey among 630 participants in the data technology field to gather insights.|<a href="https://app.powerbi.com/view?r=eyJrIjoiZmY5ZTc3MDMtMzkzMy00OTVjLTg5YmQtNTRiMDhiN2UxNTZhIiwidCI6ImFjMDYwYzUyLWE1NWEtNDBjYS05Zjk4LWNlZjkxYmZjNzg4MSIsImMiOjF9" target="new">Dashboard Link</a>|
+|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/d191c5bd-4dcc-443d-b7dd-d53928f9abca" alt="Logo" height="20"> [LinkedIn Engagement Analysis](https://github.com/CameronCSS/Data-Analysis/tree/main/LinkedIn%20Engagement)</a>|Dashboard design, Chart usage, Importance of Data Focus|I wanted to analyze my LinkedIn growth and engagement since I started my account in February, and started posting March 27th, 2023.|<a href="https://app.powerbi.com/groups/me/reports/0ebb610a-18a2-4f3b-8ae9-d7bc931e7228/ReportSection" target="new">Dashboard Link</a>|
 
-<table>
-  <tr>
-    <td>
-      <a href="https://cameroncss.com">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&theme=transparent&langs_count=6" alt="Top Langs" />
-      </a>
-    </td>
-    <td>
-      <div>
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/MySQL" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Python/FFA800" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Tableau" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Powerbi" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/MicrosoftExcel" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/r" />
-        <br>
-        <br>
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/JavaScript" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/blender" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/react" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/VisualStudio" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/github/lightgray" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/adobephotoshop" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<a name="Contact"></a> 
-## <a href="https://cameroncss.com/#contact">Contact Me</a>
-
-  </table>
-  <p style="margin-left: auto;">
-    <a href="https://drive.google.com/file/d/1YaM4hDtt2-79ShBVTN06Y3BU79LvFw6J/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-      <img src="https://user-images.githubusercontent.com/121735588/215364205-abdfc0ac-53db-4733-8d43-b57c1bafb802.png" alt="Resume button">
-    </a>
-  </p>
-</div>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+  
+ <a name="Tableau"></a>  
+# Tableau
+
+:ballot_box_with_check: Experience in building live dashboards
+ <br> :ballot_box_with_check: Knowledge in using various dataflow and import methods to showcase live data
+ <br> :ballot_box_with_check: Developed reports for company management showcasing sales performance over the last four years.
+ <br> :ballot_box_with_check: Create custom measures and integrate with graphics
+
+| Project Link | Area of Study | Project Description | Dashboard Link |
+|---|---|---|---|
+|[🏪 2020 Retail Store Sales](https://github.com/CameronCSS/Data-Analysis/tree/main/Netflix)|Cross filters, Mapbox, TOP N filtering|Built out multiple sheets to display on a single visual, and created an interactive dashboard.|[Dashboard Link](https://public.tableau.com/views/2020RetailStoreSales_16810096484660/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)|
+|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/d191c5bd-4dcc-443d-b7dd-d53928f9abca" alt="Logo" height="20"> [LinkedIn Engagement Analysis](https://github.com/CameronCSS/Data-Analysis/tree/main/LinkedIn%20Engagement)|Dashboard design, Chart usage, Data Focus|I wanted to analyze my LinkedIn growth and engagement since I started my account in February, and started posting March 27th, 2023.|<a href="https://public.tableau.com/views/LinkedInEngagementAnalysis/LinkedInEngagementAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link" target="new">Dashboard Link</a>|
+|[🪐 Intergalactic Age Calculator](https://github.com/CameronCSS/Data-Analysis/tree/main/Tableau/Intergalactic%20Age%20Calculator)|Custom graphics, Measures and Calculations,  |A fun project made in Tableau to see what your age (in years) would be anywhere in the galaxy!!|<a href="https://public.tableau.com/views/IntergalacticAgeCalculator/IntergalacticAgeCalculator?:language=en-US&:display_count=n&:origin=viz_share_link" target="new">Dashboard Link</a>|
+|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/abae027d-755b-4b35-aba6-8568dd99f7ef" alt="Logo" height="20"> [Netflix Movies and TV Shows](https://github.com/CameronCSS/Data-Analysis/tree/main/Netflix)</a>|Brand Coloring, Top N, Cross-filtering|Dashboard to show the most Popular movies and TV shows on Netflix up to the year 2019.|[Dashboard Link](https://public.tableau.com/views/NetflixTVMoviesupto2019/Netflix?:language=en-US&:display_count=n&:origin=viz_share_link)|
+|[🌎 RWFD Employee Demographics](https://github.com/CameronCSS/Data-Analysis/tree/main/Tableau/RWFD%20Employee%20Demographics)|Advanced calculations, Over 30 Worksheets, Demographics and Employee Statistics|Demographics Dashboard built using the HR data from the [RWFD Community Project.](https://sonsofhierarchies.com/real-world-fake-data/)|[Dashboard Link](https://public.tableau.com/views/RWFDEmployeeDemographics/DemographicsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)|
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+---
+  
+ <a name="Python"></a>  
+# Python and R
+
+:ballot_box_with_check: Data cleaning and Exploring using R
+<br> :ballot_box_with_check: ggplot, matplotlib, plotly graphing and data visualization
+<br> :ballot_box_with_check: Running code chunks in Jupyter, Kaggle, VS code Notebooks
+<br> :ballot_box_with_check: Built out a few simple programs in Python through Self Learning
+<br> :ballot_box_with_check: Coursera 'Programming for everybody' [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GS3TAMF6TUN6)
+
+| Project Link |Platform| Libraries | Project Description | 
+|---|---|---|---|
+|[🎢 Kaggle Coasters](https://github.com/CameronCSS/Programming-Languages/blob/main/Data%20Notebooks/Kaggle_Coasters.ipynb)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20">|numpy, pandas, matplotlib, seaborn|Explored and database of roller coaster information that dates back to the early 1900s.|
+|[😴 Rob Sleep Predictions](https://github.com/CameronCSS/Programming-Languages/blob/main/Data%20Notebooks/rob-sleep-predictions.ipynb)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20">|pandas, numpy, seaborn, plotly, xgboost, sklearn, optuna|[Rob Mulla's](https://www.kaggle.com/robikscube) Kaggle competition to predict his sleep patterns using a sample dataset.|
+|[🤰 Maternity Leave Infographic](https://www.mavenanalytics.io/project/5048)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/6a6dd9b8-f34a-4d87-9aa6-946e5e16e500" alt="Logo" height="25"><img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/b1a46d9d-31bb-4893-b5e7-909ede417de2" alt="Logo" height="18">|pandas, numpy, Google Map API|Act as an online business journal. My primary goal was to create a nice looking infographic that provided all the data for anyone looking up this information.|
+|[📱 Comparing Phone Prices in R](https://github.com/CameronCSS/Programming-Languages/tree/main/Comparing%20Phone%20Prices%20in%20R)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/179f42cd-d107-4aac-890c-0b05099e9feb" alt="Logo" height="20">|ggplot, geom_point|Explored and cleaned a cell phone price dataset found on [Kaggle](https://www.kaggle.com/datasets/rkiattisak/mobile-phone-price).|
+|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/179f42cd-d107-4aac-890c-0b05099e9feb" alt="Logo" height="20">[ Basics](https://github.com/CameronCSS/Programming-Languages/tree/main/R-Basics)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/179f42cd-d107-4aac-890c-0b05099e9feb" alt="Logo" height="20">|ggplot, dplyr|Made a full breakdown detailing the basic functions and uses of the R* programming language.|
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
