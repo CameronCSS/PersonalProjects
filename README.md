@@ -115,7 +115,7 @@
 # Python and R
 
 :ballot_box_with_check: Data cleaning and Exploring using R
-<br> :ballot_box_with_check: ggplot, matplotlib, plotly graphing and data visualization
+<br> :ballot_box_with_check: pandas, ggplot, matplotlib, plotly graphing and data visualization
 <br> :ballot_box_with_check: Running code chunks in Jupyter, Kaggle, VS code Notebooks
 <br> :ballot_box_with_check: Built out a few simple programs in Python through Self Learning
 <br> :ballot_box_with_check: Coursera 'Programming for everybody' [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GS3TAMF6TUN6)
