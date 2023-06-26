@@ -24,6 +24,7 @@
 - <a href="#Tableau">Tableau</a>
 - <a href="#Python">Python</a>
 - <a href="#R">R</a>
+- <a href="#javascript">Javascript</a>
 
 
 ----
@@ -156,6 +157,30 @@
 |---|---|---|---|
 |[📱 Comparing Phone Prices in R](https://github.com/CameronCSS/Programming-Languages/tree/main/Comparing%20Phone%20Prices%20in%20R)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/179f42cd-d107-4aac-890c-0b05099e9feb" alt="Logo" height="20">|ggplot, geom_point|Explored and cleaned a cell phone price dataset found on [Kaggle](https://www.kaggle.com/datasets/rkiattisak/mobile-phone-price).|
 |<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/179f42cd-d107-4aac-890c-0b05099e9feb" alt="Logo" height="20">[ Basics](https://github.com/CameronCSS/Programming-Languages/tree/main/R-Basics)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/179f42cd-d107-4aac-890c-0b05099e9feb" alt="Logo" height="20">|ggplot, dplyr|Made a full breakdown detailing the basic functions and uses of the R* programming language.|
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+---
+  
+ <a name="javascript"></a>  
+# Javascript
+
+:ballot_box_with_check: learning how to call sripts within HTML
+<br> :ballot_box_with_check: learn coding structure and importance of personal documentation
+<br> :ballot_box_with_check: Built out a few simple personal projects and websites
+<br> :ballot_box_with_check: Using APIs and RSS feeds to call live information
+
+
+| Project Link |Platform| Project Description | 
+|---|---|---|
+|[Anchor Podcast Episode List](https://github.com/CameronCSS/Programming-Languages/blob/main/Javascript/Anchor_Episode_list.js)|<img src="https://user-images.githubusercontent.com/121735588/220015374-100076ed-1e95-4cc7-a67a-1be1c0a31dba.png" alt="Logo" height="20">|creates an Episode list from an Anchor RSS feed for a Podcast|
+|[Anchor Podcast Latest Episode](https://github.com/CameronCSS/Programming-Languages/blob/main/Javascript/Anchor_Latest_Episode.Js)|<img src="https://user-images.githubusercontent.com/121735588/220015374-100076ed-1e95-4cc7-a67a-1be1c0a31dba.png" alt="Logo" height="20">|Similar to the episode list, but Only gets the info for the most recent Episode from the Anchor RSS feed|
+|[Carrd.co Search Bar](https://github.com/CameronCSS/Programming-Languages/blob/main/Javascript/Searchbar.js)|<img src="https://user-images.githubusercontent.com/121735588/220015374-100076ed-1e95-4cc7-a67a-1be1c0a31dba.png" alt="Logo" height="20">|creates a search bar to search through the Podcast episode list|
+|[Countapi Page View Counter](https://github.com/CameronCSS/Programming-Languages/blob/main/Javascript/pagecounter.js)|<img src="https://user-images.githubusercontent.com/121735588/220015374-100076ed-1e95-4cc7-a67a-1be1c0a31dba.png" alt="Logo" height="20">|creates a Page View counter using the Countapi on [https://api.countapi.xyz](https://api.countapi.xyz)|
 
 
 
