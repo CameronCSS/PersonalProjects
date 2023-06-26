@@ -22,7 +22,8 @@
 - <a href="#SQL-Queries">SQL</a></li>
 - <a href="#Power-Bi">Power BI</a>
 - <a href="#Tableau">Tableau</a>
-- <a href="#Python">Python and R</a>
+- <a href="#Python">Python</a>
+- <a href="#R">R</a>
 
 
 ----
@@ -113,10 +114,10 @@
 ---
   
  <a name="Python"></a>  
-# Python and R
+# Python
 
-:ballot_box_with_check: Data cleaning and Exploring using R
-<br> :ballot_box_with_check: pandas, ggplot, matplotlib, plotly graphing and data visualization
+:ballot_box_with_check: Data cleaning and Exploring using pandas
+<br> :ballot_box_with_check: pandas, matplotlib, plotly graphing and data visualization
 <br> :ballot_box_with_check: Running code chunks in Jupyter, Kaggle, VS code Notebooks
 <br> :ballot_box_with_check: Built out a few simple programs in Python through Self Learning
 <br> :ballot_box_with_check: Coursera 'Programming for everybody' [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GS3TAMF6TUN6)
@@ -127,7 +128,7 @@
 |[💸 Price Comparison using Selenium](https://github.com/CameronCSS/Programming-Languages/blob/main/Data%20Notebooks/Price%20Comparison.ipynb)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25">|Selenium, BeautifulSoup, Jupyter Notebook|Using Selenium and python I scraped products and their prices from the first page of two websites based on search input the user enters. The prices are then averaged and compared from the two websites to see which one has better pricing.|
 |[🕸️ Python Job Web Scraping](https://github.com/CameronCSS/Programming-Languages/blob/main/Data%20Notebooks/Python%20Job%20scraping.ipynb)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25">|BeautifulSoup, Jupyter Notebook, requests_html|Using Beautiful soup and requests_html I was able to scrape python job data from https://pythonjobs.github.io/. This is the first project I used pagination to explore linked pages to gather even more information about each job.|
 |[🎢 Kaggle Coasters](https://github.com/CameronCSS/Programming-Languages/blob/main/Data%20Notebooks/Kaggle_Coasters.ipynb)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20">|numpy, pandas, matplotlib, seaborn|Explored and database of roller coaster information that dates back to the early 1900s.|
-|[🔢 Serial Number Automation](https://github.com/CameronCSS/Programming-Languages/blob/main/Python/serial2.py)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20">|tkinter, pandas, difflib, openpyxl, pyhtml2pdf, os, pyinstaller|Created a GUI app with an automated process that you can load multiple Excel files with Serial numbers of various formats, and it will process the serials and export a Formatted xlsx excel file and a nice looking PDF file of the serial numbers|
+|[🔢 Serial Number Automation](https://github.com/CameronCSS/Programming-Languages/blob/main/Python/serials.py)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20">|tkinter, pandas, difflib, openpyxl, pyhtml2pdf, os, pyinstaller|Created a GUI app with an automated process that you can load multiple Excel files with Serial numbers of various formats, and it will process the serials and export a Formatted xlsx excel file and a nice looking PDF file of the serial numbers|
 |[😴 Rob Sleep Predictions](https://github.com/CameronCSS/Programming-Languages/blob/main/Data%20Notebooks/rob-sleep-predictions.ipynb)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20">|pandas, numpy, seaborn, plotly, xgboost, sklearn, optuna|[Rob Mulla's](https://www.kaggle.com/robikscube) Kaggle competition to predict his sleep patterns using a sample dataset.|
 |[🤰 Maternity Leave Infographic](https://www.mavenanalytics.io/project/5048)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/6a6dd9b8-f34a-4d87-9aa6-946e5e16e500" alt="Logo" height="25"><img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/b1a46d9d-31bb-4893-b5e7-909ede417de2" alt="Logo" height="18">|pandas, numpy, Google Map API|Act as an online business journal. My primary goal was to create a nice looking infographic that provided all the data for anyone looking up this information.|
 |[📊 Data Visualization with Pandas and Matplotlib](https://github.com/CameronCSS/Data-Analysis/blob/main/Data-Notebooks/Basic_Data_Visualization.ipynb)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25">|pandas, numpy, matplotlib, Jupyter Notebook|Created a Jupyter notebook with basic visualizations using pandas and matplotlib|
@@ -136,10 +137,26 @@
 |[🌪️ Basic Filtering with Pandas](https://github.com/CameronCSS/Data-Analysis/blob/main/Data-Notebooks/Filtering_w_Pandas.ipynb)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25">|pandas, Jupyter Notebook|a Notebook with filtering guides showing how to use Filtering by columns, Filter by 'Is In', Filter by 'Contains', Filtering by specific data in a column OR a row, and Filtering by Index (.loc, and .iloc)|
 |[🐱 Merge, Join, and Concat Functions in Pandas](https://github.com/CameronCSS/Data-Analysis/blob/main/Data-Notebooks/Merge_Join_Concat_in_Pandas.ipynb)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25">|pandas, Jupyter Notebook|Created a Jupyter notebook showing basic Merge, Join, Concat Functions: Functions included: merge, how (inner, outer, left, right), on, cross merge, suffix, concat, append|
 |[📁 Pandas file Import basics](https://github.com/CameronCSS/Data-Analysis/blob/main/Data-Notebooks/Pandas_file_Import_basics.ipynb)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25">|pandas, Jupyter Notebook|Detailed guide explaining basic file import methods for various files (txt, csv, json, xlsx) and basic data manioulation you can do with Pandas.|
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+---
+  
+ <a name="R"></a>  
+# R
+
+:ballot_box_with_check: Data cleaning and visualization
+<br> :ballot_box_with_check: ggplot graphing and data visualization
+<br> :ballot_box_with_check: Built out a few simple automated scripts through Self Learning
+
+
+| Project Link |Platform| Libraries | Project Description | 
+|---|---|---|---|
 |[📱 Comparing Phone Prices in R](https://github.com/CameronCSS/Programming-Languages/tree/main/Comparing%20Phone%20Prices%20in%20R)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/179f42cd-d107-4aac-890c-0b05099e9feb" alt="Logo" height="20">|ggplot, geom_point|Explored and cleaned a cell phone price dataset found on [Kaggle](https://www.kaggle.com/datasets/rkiattisak/mobile-phone-price).|
 |<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/179f42cd-d107-4aac-890c-0b05099e9feb" alt="Logo" height="20">[ Basics](https://github.com/CameronCSS/Programming-Languages/tree/main/R-Basics)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/179f42cd-d107-4aac-890c-0b05099e9feb" alt="Logo" height="20">|ggplot, dplyr|Made a full breakdown detailing the basic functions and uses of the R* programming language.|
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
