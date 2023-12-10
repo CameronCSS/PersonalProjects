@@ -10,7 +10,7 @@
     All my code :computer: , visuals :bar_chart: , and projects :chart_with_upwards_trend: are listed here.
     <br />
     <br>
-    <sub><a href="https://cameroncss.com/#contact">:wavy_dash: Contact Me :wavy_dash:</a></sub>
+    <sub><a href="https://cameroncss.com/#contact">Contact Me</a></sub>
 <br>
   </p>
 </div>
