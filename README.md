@@ -6,6 +6,19 @@
 
   <h3 align="center">👋 Welcome to My Github Portfolio</h3>
 
+  <a name="readme-top"></a>
+<a name="contact-me"></a>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=CameronCSS&style=flat" alt="">
+</p>
+
+I'm Cameron, a Data Analyst from Utah. <br>
+
+Exploring data and developing useful tools since 2022.
+
+<br>
+
   <p align="center">
     All my code :computer: , visuals :bar_chart: , and projects :chart_with_upwards_trend: are listed here.
     <br />
@@ -17,7 +30,7 @@
 
 
 ## 📜 Table of Contents
-
+- <a href="#Guides">Data Analyst Guides and Articles</a>
 - <a href="#Excel">Excel</a>
 - <a href="#SQL-Queries">SQL</a></li>
 - <a href="#Power-Bi">Power BI</a>
@@ -25,6 +38,25 @@
 - <a href="#Python">Python</a>
 - <a href="#R">R</a>
 - <a href="#javascript">Javascript</a>
+
+
+----
+<a name="Guides"></a>
+<br>
+⏬ **Guides and Articles for New Data Analysts** ⏬
+<br>
+
+|Guides|Project Links|
+|---|---|
+|🎨 Dashboard Color Guide | [View Guide](https://www.linkedin.com/feed/update/urn:li:activity:7060457908592939008/)|
+|📊 Dashboard Color App| [Try the App](https://cloud.squirrel365.io/viewer/EE95D322FE4B4278B870DE8D06B316D2)|
+|🖥️ Free Datasets Resource | [View the list](https://www.linkedin.com/feed/update/urn:li:activity:7054106303060709377/)|
+|📈 Graph DOs and DONTs| [View article](https://www.linkedin.com/feed/update/urn:li:activity:7064663920539537409/)|
+|🔤 REGEXP SQL Basics| [View article](https://www.linkedin.com/feed/update/urn:li:activity:7057360246314340352/)|
+
+<h5><em>These are just some of the resources I have provided for other Data Nerds wanting to break into the world of Data.</em></h5>
+
+Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just view the rest of my Projects below
 
 
 ----
