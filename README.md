@@ -1,17 +1,16 @@
 <a name="readme-top"></a>
 
-<br />
 <div align="center">
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=CameronCSS&style=flat" alt="">
+</p>
 
 
   <h3 align="center">👋 Welcome to My Github Portfolio</h3>
 
   <a name="readme-top"></a>
 <a name="contact-me"></a>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=CameronCSS&style=flat" alt="">
-</p>
 
 I'm Cameron, a Data Analyst from Utah. <br>
 
