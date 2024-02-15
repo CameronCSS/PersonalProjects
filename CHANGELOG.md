@@ -7,3 +7,7 @@
 
 ### Removed
 - Outdated links
+
+### Issues
+
+- No known issues
