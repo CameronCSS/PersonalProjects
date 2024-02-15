@@ -1,5 +1,19 @@
 # Changelog
 
+## v1.0.1 ```2024-02-14```
+
+### Added or Changed
+- Added new project links
+
+### Removed
+- N/A
+
+### Issues
+
+- No known issues
+
+----
+
 ## v1.0.0
 
 ### Added or Changed
