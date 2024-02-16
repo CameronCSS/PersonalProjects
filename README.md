@@ -10,16 +10,11 @@
   <h3 align="center">👋 Welcome to My Github Portfolio</h3>
 
   <a name="readme-top"></a>
-<a name="contact-me"></a>
-
-I'm Cameron, a Data Analyst from Utah. <br>
-
-Exploring data and developing useful tools since 2022.
 
 <br>
 
   <p align="center">
-    All my code :computer: , visuals :bar_chart: , and projects :chart_with_upwards_trend: are listed here.
+    All my coding :computer: projects can be found below
     <br />
     <br>
     <sub><a href="https://camdoesdata.com/#contact">Contact Me</a></sub>
@@ -28,18 +23,156 @@ Exploring data and developing useful tools since 2022.
 </div>
 
 
-## 📜 Table of Contents
-- <a href="#Guides">Data Analyst Guides and Articles</a>
-- <a href="#Excel">Excel</a>
-- <a href="#SQL-Queries">SQL</a></li>
-- <a href="#Power-Bi">Power BI</a>
-- <a href="#Tableau">Tableau</a>
-- <a href="#Python">Python</a>
-- <a href="#R">R</a>
-- <a href="#javascript">Javascript</a>
+<details>
+    <summary>Table of Contents</summary>
+    <ul>
+        <li><a href="About">About</a></li>
+        <br>
+        
+**Developer Focused**
+<ul>
+    <li><a href="#Backend">Backend</a></li>
+	<ul><a href="#node">Node</a></ul>
+	<ul><a href="#back-script">Javascript</a></ul>
+	<ul><a href="#Django">Django</a></ul>
+	<ul><a href="#Database">Database</a></ul>
+	<br>
+    <li><a href="#Frontend">Frontend</a></li>
+	<ul><a href="#front-script">Javascript</a></ul>
+	<ul><a href="#Svelte">Svelte</a></ul>
+	<ul><a href="#React">React</a></ul>
+</ul>
+<br>
+
+**Data Focused**
+<ul>
+    <li><a href="#Guides">Analyst Guides / Articles</a></li>
+    <li><a href="#Excel">Excel</a></li>
+    <li><a href="#SQL-Queries">SQL</a></li>
+    <li><a href="#Power-Bi">Power BI</a></li>
+    <li><a href="#Tableau">Tableau</a></li>
+	<li><a href="#Python">Python</a></li>
+	<li><a href="#R">R</a></li>
+	<li><a href="#data-script">Javascript</a></li>
+</ul>
+</details>
+
 
 
 ----
+# About
+
+
+### Hello !! 👋
+
+
+#### I'm **Cameron**, a Full-stack developer from Utah.
+
+
+<small><em> Exploring Code and developing useful tools since 2022. </em> </small>
+<br>
+
+---
+In 2022 I started studying data tools and really diving into analytics. I learned a lot about SQL databases and presenting data to non-technical peers.
+
+During this time I also discovered a love for creating apps and useful tools. With my knowledge of databases and data structures it slowly led me towards backend software development. 
+<br>
+<br>
+Fast forward to 2024, and here I am, deeply engrossed in Fullstack software development, with a keen focus on JavaScript and making useful Web apps.
+
+----
+<a name="Developer-Focused"></a>
+
+# Developer Focused
+
+```Everything below was created after I switched my focus to software development```
+<br>
+<br>
+
+<a name="Backend"></a>
+
+# Backend
+
+ <a name="node"></a>  
+## Node
+
+
+| Project Link | Project Description | 
+|---|---|
+|Placeholder|Placeholder|
+
+----
+
+ <a name="back-script"></a>  
+## Javascript
+
+
+| Project Link | Project Description | 
+|---|---|
+|Placeholder|Placeholder|
+
+----
+
+ <a name="Django"></a>  
+## Django
+
+
+| Project Link | Project Description | 
+|---|---|
+|Placeholder|Placeholder|
+
+----
+
+ <a name="Database"></a>  
+## Database
+
+
+| Project Link | Project Description | 
+|---|---|
+|Placeholder|Placeholder|
+
+
+
+
+----
+
+<a name="Frontend"></a>
+
+# Frontend
+
+ <a name="front-script"></a>  
+## Javascript
+
+
+| Project Link | Project Description | 
+|---|---|
+|Placeholder|Placeholder|
+
+----
+ <a name="Svelte"></a>  
+## Svelte
+
+
+| Project Link | Project Description | 
+|---|---|
+|Placeholder|Placeholder|
+
+----
+ <a name="React"></a>  
+## React
+
+
+| Project Link | Project Description | 
+|---|---|
+|Placeholder|Placeholder|
+
+----
+<a name="Data-Focused"></a>
+
+# Data Focused
+
+```Everyhting below was created when I was focused on Data analytics```
+
 <a name="Guides"></a>
 <br>
 ⏬ **Guides and Articles for New Data Analysts** ⏬
@@ -146,6 +279,10 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
 
 
 ---
+<a name="Data-Programming"></a>
+# Programming Languages
+---
+
   
  <a name="Python"></a>  
 # Python
@@ -199,7 +336,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
 
 ---
   
- <a name="javascript"></a>  
+ <a name="data-script"></a>  
 # Javascript
 
 :ballot_box_with_check: learning how to call sripts within HTML
