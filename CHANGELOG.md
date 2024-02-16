@@ -1,5 +1,24 @@
 # Changelog
 
+```Why a changelog for a portfolio?```
+<br>
+*'Because I want to develop good habits of commenting on my code'*
+<hr>
+
+## v1.0.3 ```2024-02-16```
+
+### Added or Changed
+- Added Developer Section
+
+### Removed
+- N/A
+
+### Issues
+
+- Need to finish adding developr projects
+
+----
+
 ## v1.0.2 ```2024-02-14```
 
 ### Added or Changed
