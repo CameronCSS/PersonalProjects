@@ -2,9 +2,6 @@
 
 <div align="center">
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=CameronCSS&style=flat" alt="">
-</p>
 
 
   <h3 align="center">👋 Welcome to My Github Portfolio</h3>
