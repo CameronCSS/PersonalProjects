@@ -72,14 +72,6 @@
 <small><em> Exploring Code and developing useful tools since 2022. </em> </small>
 <br>
 
----
-In 2022 I started studying data tools and really diving into analytics. I learned a lot about SQL databases and presenting data to non-technical peers.
-
-During this time I also discovered a love for creating apps and useful tools. With my knowledge of databases and data structures it slowly led me towards backend software development. 
-<br>
-<br>
-Fast forward to 2024, and here I am, deeply engrossed in Fullstack software development, with a keen focus on JavaScript and making useful Web apps.
-
 ----
 <a name="Developer-Focused"></a>
 
