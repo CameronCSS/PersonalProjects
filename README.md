@@ -9,75 +9,67 @@
 
   <h3 align="center">👋 Welcome to My Github Portfolio</h3>
 
+<sub><a href="https://camdoesdata.com/#contact">Contact Me</a></sub>
+<br>
+
   <a name="readme-top"></a>
 
 <br>
 
-  <p align="center">
-    All my coding :computer: projects can be found below
-    <br />
-    <br>
-    <sub><a href="https://camdoesdata.com/#contact">Contact Me</a></sub>
-<br>
-  </p>
 </div>
 
 
 <details>
     <summary>Table of Contents</summary>
     <ul>
-        <li><a href="About">About</a></li>
+        <li><strong>Developer Focused</strong>
+            <ul>
+                <li><a href="#Backend">Backend</a>
+                    <ul>
+                        <li><a href="#back-wip">WIP</a></li>
+                        <li><a href="#back-done">Completed</a></li>
+                    </ul>
+                </li>
+                <li><a href="#Frontend">Frontend</a>
+                    <ul>
+                        <li><a href="#front-wip">WIP</a></li>
+                        <li><a href="#front-done">Completed</a></li>
+                    </ul>
+                </li>
+                <li><a href="#Full-stack">Full-Stack Projects</a>
+                    <ul>
+                        <li><a href="#stack-wip">WIP</a></li>
+                        <li><a href="#stack-done">Completed</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
         <br>
-        
-**Developer Focused**
-<ul>
-    <li><a href="#Backend">Backend</a></li>
-	<ul><a href="#node">Node</a></ul>
-	<ul><a href="#back-script">Javascript</a></ul>
-	<ul><a href="#Django">Django</a></ul>
-	<ul><a href="#Database">Database</a></ul>
-	<br>
-    <li><a href="#Frontend">Frontend</a></li>
-	<ul><a href="#front-script">Javascript</a></ul>
-	<ul><a href="#Svelte">Svelte</a></ul>
-	<ul><a href="#React">React</a></ul>
-</ul>
-<br>
-
-**Data Focused**
-<ul>
-    <li><a href="#Guides">Analyst Guides / Articles</a></li>
-    <li><a href="#Excel">Excel</a></li>
-    <li><a href="#SQL-Queries">SQL</a></li>
-    <li><a href="#Power-Bi">Power BI</a></li>
-    <li><a href="#Tableau">Tableau</a></li>
-	<li><a href="#Python">Python</a></li>
-	<li><a href="#R">R</a></li>
-	<li><a href="#data-script">Javascript</a></li>
-</ul>
+        <li><strong>Data Focused</strong>
+            <ul>
+                <li><a href="#Guides">Analyst Guides / Articles</a></li>
+                <li><a href="#Excel">Excel</a></li>
+                <li><a href="#SQL-Queries">SQL</a></li>
+                <li><a href="#Power-Bi">Power BI</a></li>
+                <li><a href="#Tableau">Tableau</a></li>
+                <li><a href="#Python">Python</a></li>
+                <li><a href="#R">R</a></li>
+                <li><a href="#data-script">Javascript</a></li>
+            </ul>
+        </li>
+    </ul>
 </details>
 
 
-
-----
-# About
+<h6><em>Table of Contents is here you help you navigate</em></h6>
 
 
-### Hello !! 👋
 
-
-#### I'm **Cameron**, a Full-stack developer from Utah.
-
-
-<small><em> Exploring Code and developing useful tools since 2022. </em> </small>
-<br>
-
-----
 <a name="Developer-Focused"></a>
 
-# Developer Focused
+# Developer Focused Projects
 
-```Everything below was created after I switched my focus to software development```
+```Everything below was created after I switched my focus to software development``` [?](https://github.com/CameronCSS)
 <br>
 <br>
 
@@ -85,45 +77,28 @@
 
 # Backend
 
- <a name="node"></a>  
-## Node
+ <a name="back-wip"></a>  
+## Backend WIP projects
 
 
-| Project Link | Project Description | 
-|---|---|
-|Placeholder|Placeholder|
+| Project Link |Tech used| Project Description | 
+|---|---|---|
+|Placeholder|Placeholder|Placeholder|
 
-----
-
- <a name="back-script"></a>  
-## Javascript
-
-
-| Project Link | Project Description | 
-|---|---|
-|Placeholder|Placeholder|
+<br>
+<br>
 
 ----
 
- <a name="Django"></a>  
-## Django
+ <a name="back-done"></a>  
+## Backend Completed
 
 
-| Project Link | Project Description | 
-|---|---|
-|Placeholder|Placeholder|
+| Project Link |Tech used| Project Description | 
+|---|---|---|
+|Placeholder|Placeholder|Placeholder|
 
-----
-
- <a name="Database"></a>  
-## Database
-
-
-| Project Link | Project Description | 
-|---|---|
-|Placeholder|Placeholder|
-
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ----
@@ -132,36 +107,63 @@
 
 # Frontend
 
- <a name="front-script"></a>  
-## Javascript
+ <a name="front-wip"></a>  
+## Frontend WIP projects
 
 
-| Project Link | Project Description | 
-|---|---|
-|Placeholder|Placeholder|
+| Project Link |Tech used| Project Description | 
+|---|---|---|
+|Placeholder|Placeholder|Placeholder|
 
-----
- <a name="Svelte"></a>  
-## Svelte
-
-
-| Project Link | Project Description | 
-|---|---|
-|Placeholder|Placeholder|
+<br>
+<br>
 
 ----
- <a name="React"></a>  
-## React
+
+ <a name="front-done"></a>  
+## Frontend Completed
 
 
-| Project Link | Project Description | 
-|---|---|
-|Placeholder|Placeholder|
+| Project Link |Tech used| Project Description | 
+|---|---|---|
+|Placeholder|Placeholder|Placeholder|
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+----
+
+<a name="Frontend"></a>
+
+# Full-Stack Projects
+
+ <a name="stack-wip"></a>  
+## Full-Stack WIP projects
+
+
+| Project Link |Tech used| Project Description | 
+|---|---|---|
+|Placeholder|Placeholder|Placeholder|
+
+<br>
+<br>
+
+----
+
+ <a name="stack-done"></a>  
+## Full-Stack Completed
+
+
+| Project Link |Tech used| Project Description | 
+|---|---|---|
+|Placeholder|Placeholder|Placeholder|
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ----
 <a name="Data-Focused"></a>
 
-# Data Focused
+# Data Focused Projects
 
 ```Everyhting below was created when I was focused on Data analytics```
 
