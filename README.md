@@ -66,7 +66,9 @@
 
 # Developer Focused Projects
 
-```Everything below was created after I switched my focus to software development``` [?](https://github.com/CameronCSS)
+> [!NOTE]
+> Everything in this section was created after I switched my focus to software development.
+
 <br>
 <br>
 
@@ -162,7 +164,8 @@
 
 # Data Focused Projects
 
-```Everyhting below was created when I was focused on Data analytics```
+> [!NOTE]
+> Everything below was created after I was focused on Data Analytics
 
 <a name="Guides"></a>
 <br>
