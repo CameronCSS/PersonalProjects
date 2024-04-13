@@ -19,30 +19,6 @@
 <details>
     <summary>Table of Contents</summary>
     <ul>
-        <li><strong>Developer Focused</strong>
-            <ul>
-                <li><a href="#Backend">Backend</a>
-                    <ul>
-                        <li><a href="#back-wip">WIP</a></li>
-                        <li><a href="#back-done">Completed</a></li>
-                    </ul>
-                </li>
-                <li><a href="#Frontend">Frontend</a>
-                    <ul>
-                        <li><a href="#front-wip">WIP</a></li>
-                        <li><a href="#front-done">Completed</a></li>
-                    </ul>
-                </li>
-                <li><a href="#Full-stack">Full-Stack Projects</a>
-                    <ul>
-                        <li><a href="#stack-wip">WIP</a></li>
-                        <li><a href="#stack-done">Completed</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </li>
-        <br>
-        <li><strong>Data Focused</strong>
             <ul>
                 <li><a href="#Guides">Analyst Guides / Articles</a></li>
                 <li><a href="#Excel">Excel</a></li>
@@ -60,113 +36,7 @@
 
 <h6><em>Table of Contents is here you help you navigate</em></h6>
 
-
-
-<a name="Developer-Focused"></a>
-
-# Developer Focused Projects
-
-> [!NOTE]
-> Everything in this section was created after I switched my focus to software development.
-
-<br>
-<br>
-
-<a name="Backend"></a>
-
-# Backend
-
- <a name="back-wip"></a>  
-## Backend WIP projects
-
-
-| Project Link |Tech used| Project Description | 
-|---|---|---|
-|Placeholder|Placeholder|Placeholder|
-
-<br>
-<br>
-
 ----
-
- <a name="back-done"></a>  
-## Backend Completed
-
-
-| Project Link |Tech used| Project Description | 
-|---|---|---|
-|Placeholder|Placeholder|Placeholder|
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-----
-
-<a name="Frontend"></a>
-
-# Frontend
-
- <a name="front-wip"></a>  
-## Frontend WIP projects
-
-
-| Project Link |Tech used| Project Description | 
-|---|---|---|
-|Placeholder|Placeholder|Placeholder|
-
-<br>
-<br>
-
-----
-
- <a name="front-done"></a>  
-## Frontend Completed
-
-
-| Project Link |Tech used| Project Description | 
-|---|---|---|
-|Placeholder|Placeholder|Placeholder|
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-----
-
-<a name="Frontend"></a>
-
-# Full-Stack Projects
-
- <a name="stack-wip"></a>  
-## Full-Stack WIP projects
-
-
-| Project Link |Tech used| Project Description | 
-|---|---|---|
-|Placeholder|Placeholder|Placeholder|
-
-<br>
-<br>
-
-----
-
- <a name="stack-done"></a>  
-## Full-Stack Completed
-
-
-| Project Link |Tech used| Project Description | 
-|---|---|---|
-|Placeholder|Placeholder|Placeholder|
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-----
-<a name="Data-Focused"></a>
-
-# Data Focused Projects
-
-> [!NOTE]
-> Everything below was created after I was focused on Data Analytics
-
 <a name="Guides"></a>
 <br>
 ⏬ **Guides and Articles for New Data Analysts** ⏬
@@ -341,6 +211,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
 
 | Project Link |Platform| Project Description | 
 |---|---|---|
+|[Test Projects](https://github.com/CameronCSS/test-projects)|<img src="https://user-images.githubusercontent.com/121735588/220015374-100076ed-1e95-4cc7-a67a-1be1c0a31dba.png" alt="Logo" height="20">|A place for several Web apps and JavaScript projects. Including #Javascript30 project files.|
 |[Anchor Podcast Episode List](https://github.com/CameronCSS/Programming-Languages/blob/main/Javascript/Anchor_Episode_list.js)|<img src="https://user-images.githubusercontent.com/121735588/220015374-100076ed-1e95-4cc7-a67a-1be1c0a31dba.png" alt="Logo" height="20">|creates an Episode list from an Anchor RSS feed for a Podcast|
 |[Anchor Podcast Latest Episode](https://github.com/CameronCSS/Programming-Languages/blob/main/Javascript/Anchor_Latest_Episode.Js)|<img src="https://user-images.githubusercontent.com/121735588/220015374-100076ed-1e95-4cc7-a67a-1be1c0a31dba.png" alt="Logo" height="20">|Similar to the episode list, but Only gets the info for the most recent Episode from the Anchor RSS feed|
 |[Carrd.co Search Bar](https://github.com/CameronCSS/Programming-Languages/blob/main/Javascript/Searchbar.js)|<img src="https://user-images.githubusercontent.com/121735588/220015374-100076ed-1e95-4cc7-a67a-1be1c0a31dba.png" alt="Logo" height="20">|creates a search bar to search through the Podcast episode list|
