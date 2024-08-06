@@ -5,6 +5,8 @@
 
 
   <h3 align="center">👋 Welcome to My Github Portfolio</h3>
+  
+  <code style="color : green">You need an Analyst who can take your Data to the next level. Thats where I come in.</code>
 
 <sub><a href="https://camdoesdata.com/#contact">Contact Me</a></sub>
 <br>
@@ -16,7 +18,7 @@
 </div>
 
 
-<details>
+<details open>
     <summary>Table of Contents</summary>
     <ul>
             <ul>
@@ -39,8 +41,10 @@
 ----
 <a name="Guides"></a>
 <br>
-⏬ **Guides and Articles for New Data Analysts** ⏬
-<br>
+<h3>⏬ Guides and Articles for New Data Analysts ⏬</h3>
+<details>
+    <summary> <i>Click to View</i> </summary>
+
 
 |Guides|Project Links|
 |---|---|
@@ -53,6 +57,7 @@
 <h5><em>These are just some of the resources I have provided for other Data Nerds wanting to break into the world of Data.</em></h5>
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just view the rest of my Projects below
+</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,6 +65,8 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
 
 <a name="Excel"></a>
 # Excel
+<details>
+    <summary> <i>Click to View</i> </summary>
 
 :ballot_box_with_check: Experience in cleaning data both for projects and real world data sets
  <br> :ballot_box_with_check: Knowledge in DAX and using custom formulas to alter data
@@ -75,14 +82,16 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
 |<a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/EDA%20%23%203%20Employee%20Turnover" target="new">😠 SLC civilian complaints</a>|Basic visualization, Data cleaning, comparison to external sources|I found that SLC has a website and app where residents can report complaints to the city. Explored the data for any interesting findings since I live so close to SLC the data seemed relevant|
 |<a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Sales%20Performance%20Review" target="new">📊 Sales Performance Review</a>|Data cleanup, Xlookup, pulling from multiple data sources|A 4 year Sales Breakdown across multiple locations|
 
-	
+</details>	
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
     
 ---
 
 <a name="SQL-Queries"></a>
 # SQL Queries
-
+<details>
+    <summary> <i>Click to View</i> </summary>
+	
 :ballot_box_with_check: Data cleaning and data exploring
 <br> :ballot_box_with_check: Experienced with Syntax in MS SQL, PostgreSQL, MySQL
 <br> :ballot_box_with_check: Google data analytics professional certificate
@@ -97,13 +106,15 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
 |<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/Khan%20Academy%20Advanced%20SQL" target="new">🎓 Khan Academy Advanced SQL</a>|TABLE INSERT and DELETE, GROUP BY, HAVING, CASE WHEN, multiple JOINs|SQL Queries begin with basic concepts and advance to more complex topics as we progress.|
 |<a href="https://github.com/CameronCSS/SQL-Queries/tree/main/SQLbolt%20-%20SQL%20lessons" target="new">⚡ SQLbolt - SQL lessons</a>|Basics of SQL, SELECT, FROM, WHERE, ORDER BY, JOINs, Aggregations, INSERT, DROP, DELETE|This collection of SQL queries was learned from [SQLbolt](https://sqlbolt.com/), a website that provides interactive tutorials to help users learn SQL (Structured Query Language) and improve their skills.|
 
-
+</details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
   
  <a name="Power-Bi"></a>  
 # Power BI
+<details>
+    <summary> <i>Click to View</i> </summary>
 
 :ballot_box_with_check: Experience in building live dashboards
  <br> :ballot_box_with_check: Knowledge in using various dataflow and import methods to showcase live data
@@ -116,7 +127,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
 |<a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/Data%20Professional%20Survey/README.md" target="new">📑 Data Professional Survey</a>|KPI, navigation, Charting, and Filtering|<a href="https://www.youtube.com/@AlexTheAnalyst">Alex the Analyst</a> conducted a survey among 630 participants in the data technology field to gather insights.|<a href="https://app.powerbi.com/view?r=eyJrIjoiZmY5ZTc3MDMtMzkzMy00OTVjLTg5YmQtNTRiMDhiN2UxNTZhIiwidCI6ImFjMDYwYzUyLWE1NWEtNDBjYS05Zjk4LWNlZjkxYmZjNzg4MSIsImMiOjF9" target="new">Dashboard Link</a>|
 |<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/d191c5bd-4dcc-443d-b7dd-d53928f9abca" alt="Logo" height="20"> [LinkedIn Engagement Analysis](https://github.com/CameronCSS/Data-Analysis/tree/main/LinkedIn%20Engagement)</a>|Dashboard design, Chart usage, Importance of Data Focus|I wanted to analyze my LinkedIn growth and engagement since I started my account in February, and started posting March 27th, 2023.|<a href="https://app.powerbi.com/groups/me/reports/0ebb610a-18a2-4f3b-8ae9-d7bc931e7228/ReportSection" target="new">Dashboard Link</a>|
 
-
+</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,6 +135,8 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
   
  <a name="Tableau"></a>  
 # Tableau
+<details>
+    <summary> <i>Click to View</i> </summary>
 
 :ballot_box_with_check: Experience in building live dashboards
  <br> :ballot_box_with_check: Knowledge in using various dataflow and import methods to showcase live data
@@ -138,6 +151,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
 |<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/abae027d-755b-4b35-aba6-8568dd99f7ef" alt="Logo" height="20"> [Netflix Movies and TV Shows](https://github.com/CameronCSS/Data-Analysis/tree/main/Netflix)</a>|Brand Coloring, Top N, Cross-filtering|Dashboard to show the most Popular movies and TV shows on Netflix up to the year 2019.|[Dashboard Link](https://public.tableau.com/views/NetflixTVMoviesupto2019/Netflix?:language=en-US&:display_count=n&:origin=viz_share_link)|
 |[🌎 RWFD Employee Demographics](https://github.com/CameronCSS/Data-Analysis/tree/main/Tableau/RWFD%20Employee%20Demographics)|Advanced calculations, Over 30 Worksheets, Demographics and Employee Statistics|Demographics Dashboard built using the HR data from the [RWFD Community Project.](https://sonsofhierarchies.com/real-world-fake-data/)|[Dashboard Link](https://public.tableau.com/views/RWFDEmployeeDemographics/DemographicsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)|
 
+</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,6 +164,8 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
   
  <a name="Python"></a>  
 # Python
+<details>
+    <summary> <i>Click to View</i> </summary>
 
 :ballot_box_with_check: Data cleaning and Exploring using pandas
 <br> :ballot_box_with_check: pandas, matplotlib, plotly graphing and data visualization
@@ -173,6 +189,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
 |[🐱 Merge, Join, and Concat Functions in Pandas](https://github.com/CameronCSS/Data-Analysis/blob/main/Data-Notebooks/Merge_Join_Concat_in_Pandas.ipynb)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25">|pandas, Jupyter Notebook|Created a Jupyter notebook showing basic Merge, Join, Concat Functions: Functions included: merge, how (inner, outer, left, right), on, cross merge, suffix, concat, append|
 |[📁 Pandas file Import basics](https://github.com/CameronCSS/Data-Analysis/blob/main/Data-Notebooks/Pandas_file_Import_basics.ipynb)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25">|pandas, Jupyter Notebook|Detailed guide explaining basic file import methods for various files (txt, csv, json, xlsx) and basic data manioulation you can do with Pandas.|
 
+</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,6 +198,8 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
   
  <a name="R"></a>  
 # R
+<details>
+    <summary> <i>Click to View</i> </summary>
 
 :ballot_box_with_check: Data cleaning and visualization
 <br> :ballot_box_with_check: ggplot graphing and data visualization
@@ -192,7 +211,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
 |[📱 Comparing Phone Prices in R](https://github.com/CameronCSS/Programming-Languages/tree/main/Comparing%20Phone%20Prices%20in%20R)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/179f42cd-d107-4aac-890c-0b05099e9feb" alt="Logo" height="20">|ggplot, geom_point|Explored and cleaned a cell phone price dataset found on [Kaggle](https://www.kaggle.com/datasets/rkiattisak/mobile-phone-price).|
 |<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/179f42cd-d107-4aac-890c-0b05099e9feb" alt="Logo" height="20">[ Basics](https://github.com/CameronCSS/Programming-Languages/tree/main/R-Basics)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/179f42cd-d107-4aac-890c-0b05099e9feb" alt="Logo" height="20">|ggplot, dplyr|Made a full breakdown detailing the basic functions and uses of the R* programming language.|
 
-
+</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -202,7 +221,9 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
   
  <a name="data-script"></a>  
 # Javascript
-
+<details>
+    <summary> <i>Click to View</i> </summary>
+	
 :ballot_box_with_check: learning how to call sripts within HTML
 <br> :ballot_box_with_check: learn coding structure and importance of personal documentation
 <br> :ballot_box_with_check: Built out a few simple personal projects and websites
@@ -217,6 +238,6 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
 |[Carrd.co Search Bar](https://github.com/CameronCSS/Programming-Languages/blob/main/Javascript/Searchbar.js)|<img src="https://user-images.githubusercontent.com/121735588/220015374-100076ed-1e95-4cc7-a67a-1be1c0a31dba.png" alt="Logo" height="20">|creates a search bar to search through the Podcast episode list|
 |[Countapi Page View Counter](https://github.com/CameronCSS/Programming-Languages/blob/main/Javascript/pagecounter.js)|<img src="https://user-images.githubusercontent.com/121735588/220015374-100076ed-1e95-4cc7-a67a-1be1c0a31dba.png" alt="Logo" height="20">|creates a Page View counter using the Countapi on [https://api.countapi.xyz](https://api.countapi.xyz)|
 
-
+</details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
