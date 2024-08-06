@@ -8,10 +8,6 @@
   
 
 
-> [!TIP] 
-> #### You need an Analyst who can take your Data to the next level. Thats where I come in.
-
-
 <sub><a href="https://camdoesdata.com/#contact">Contact Me</a></sub>
 <br>
 
@@ -20,6 +16,10 @@
 <br>
 
 </div>
+
+
+> [!TIP] 
+> #### You need an Analyst who can take your Data to the next level. Thats where I come in.
 
 
 <details open>
