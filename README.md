@@ -6,7 +6,9 @@
 
   <h3 align="center">👋 Welcome to My Github Portfolio</h3>
   
-  <code style="color : green">You need an Analyst who can take your Data to the next level. Thats where I come in.</code>
+```css
+You need an Analyst who can take your Data to the next level. Thats where I come in.
+```
 
 <sub><a href="https://camdoesdata.com/#contact">Contact Me</a></sub>
 <br>
@@ -36,11 +38,9 @@
 </details>
 
 
-<h6><em>Table of Contents is here you help you navigate</em></h6>
 
 ----
 <a name="Guides"></a>
-<br>
 <h3>⏬ Guides and Articles for New Data Analysts ⏬</h3>
 <details>
     <summary> <i>Click to View</i> </summary>
