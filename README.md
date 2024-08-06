@@ -43,7 +43,8 @@ You need an Analyst who can take your Data to the next level. Thats where I come
 <a name="Guides"></a>
 <h3>⏬ Guides and Articles for New Data Analysts ⏬</h3>
 <details>
-    <summary> <i>Click to View</i> </summary>
+    <summary> <code><i>Click to View</i></code> </summary>
+    <br>
 
 
 |Guides|Project Links|
@@ -66,8 +67,9 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
 <a name="Excel"></a>
 # Excel
 <details>
-    <summary> <i>Click to View</i> </summary>
-
+    <summary> <code><i>Click to View</i></code> </summary>
+    <br>
+	
 :ballot_box_with_check: Experience in cleaning data both for projects and real world data sets
  <br> :ballot_box_with_check: Knowledge in DAX and using custom formulas to alter data
   <br> :ballot_box_with_check: Using VLOOKUP, HLOOKUP, and XLOOKUP to quickly alter and organize data
@@ -90,7 +92,8 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
 <a name="SQL-Queries"></a>
 # SQL Queries
 <details>
-    <summary> <i>Click to View</i> </summary>
+    <summary> <code><i>Click to View</i></code> </summary>
+    <br>
 	
 :ballot_box_with_check: Data cleaning and data exploring
 <br> :ballot_box_with_check: Experienced with Syntax in MS SQL, PostgreSQL, MySQL
@@ -114,7 +117,8 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
  <a name="Power-Bi"></a>  
 # Power BI
 <details>
-    <summary> <i>Click to View</i> </summary>
+    <summary> <code><i>Click to View</i></code> </summary>
+    <br>
 
 :ballot_box_with_check: Experience in building live dashboards
  <br> :ballot_box_with_check: Knowledge in using various dataflow and import methods to showcase live data
@@ -136,7 +140,8 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
  <a name="Tableau"></a>  
 # Tableau
 <details>
-    <summary> <i>Click to View</i> </summary>
+    <summary> <code><i>Click to View</i></code> </summary>
+    <br>
 
 :ballot_box_with_check: Experience in building live dashboards
  <br> :ballot_box_with_check: Knowledge in using various dataflow and import methods to showcase live data
@@ -165,7 +170,8 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
  <a name="Python"></a>  
 # Python
 <details>
-    <summary> <i>Click to View</i> </summary>
+    <summary> <code><i>Click to View</i></code> </summary>
+    <br>
 
 :ballot_box_with_check: Data cleaning and Exploring using pandas
 <br> :ballot_box_with_check: pandas, matplotlib, plotly graphing and data visualization
@@ -199,7 +205,8 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
  <a name="R"></a>  
 # R
 <details>
-    <summary> <i>Click to View</i> </summary>
+    <summary> <code><i>Click to View</i></code> </summary>
+    <br>
 
 :ballot_box_with_check: Data cleaning and visualization
 <br> :ballot_box_with_check: ggplot graphing and data visualization
@@ -222,7 +229,8 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just
  <a name="data-script"></a>  
 # Javascript
 <details>
-    <summary> <i>Click to View</i> </summary>
+    <summary> <code><i>Click to View</i></code> </summary>
+    <br>
 	
 :ballot_box_with_check: learning how to call sripts within HTML
 <br> :ballot_box_with_check: learn coding structure and importance of personal documentation
