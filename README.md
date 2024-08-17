@@ -18,7 +18,8 @@
 
 
 > [!TIP] 
-> #### You need an Analyst who can take your Business to the next level. Thats where I come in.
+> #### You need an Analyst who can handle everything from insightful dashboards to web reporting solutions. 📈
+> #### Thats where I come in.
 
 ----
 
