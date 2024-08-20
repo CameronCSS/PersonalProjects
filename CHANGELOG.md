@@ -5,6 +5,19 @@
 *'Because I want to develop good habits of commenting on my code'*
 <hr>
 
+## v1.0.4 ```2024-08-19```
+
+### Added or Changed
+- Added click to view for sections
+- Updated projects list
+
+### Removed
+- Removed separate Developer section
+
+### Issues
+
+- N/A
+
 ## v1.0.3 ```2024-02-16```
 
 ### Added or Changed
