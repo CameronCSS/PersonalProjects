@@ -54,13 +54,14 @@
 |---|---|
 |🎨 Dashboard Color Guide | [View Guide](https://www.linkedin.com/feed/update/urn:li:activity:7060457908592939008/)|
 |📊 Dashboard Color App| [Try the App](https://cloud.squirrel365.io/viewer/EE95D322FE4B4278B870DE8D06B316D2)|
-|🖥️ Free Datasets Resource | [View the list](https://www.linkedin.com/feed/update/urn:li:activity:7054106303060709377/)|
+|🖥️ Free Datasets Resource | [View the list](https://camdoesdata.com/resources.html)|
 |📈 Graph DOs and DONTs| [View article](https://www.linkedin.com/feed/update/urn:li:activity:7064663920539537409/)|
-|🔤 REGEXP SQL Basics| [View article](https://www.linkedin.com/feed/update/urn:li:activity:7057360246314340352/)|
+|🔤 REGEXP SQL Basics| [Part 1](https://www.linkedin.com/feed/update/urn:li:activity:7057360246314340352/) - [Part 2](https://www.linkedin.com/feed/update/urn:li:activity:7057712477089771521/)|
+|📝 My Data Blog| [View Blog](https://camdoesdata.notion.site/Welcome-to-my-Data-blog-72418b9480c24b758e503b8498052611)|
 
 <h5><em>These are just some of the resources I have provided for other Data Nerds wanting to break into the world of Data.</em></h5>
 
-Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css) Or you can just view the rest of my Projects below
+Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
