@@ -17,9 +17,11 @@
 </div>
 
 
-> [!TIP] 
-> #### You need an Analyst who can handle everything from insightful dashboards to web reporting solutions. 📈
-> #### Thats where I come in.
+> [!IMPORTANT] 
+> ## Recent Project
+> ### Retail Profit Predictions
+> #### I performed data cleaning, and analyzed future profit predictions using both Prophet and Linear Regression.
+> [View Project](https://github.com/CameronCSS/Retail_Profit_Predictions/tree/master/README.md)
 
 ----
 
