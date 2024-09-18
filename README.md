@@ -19,9 +19,9 @@
 
 > [!IMPORTANT] 
 > ## Recent Project
-> ### Retail Profit Predictions
-> #### I performed data cleaning, and analyzed future profit predictions using both Prophet and Linear Regression.
-> [View Project](https://github.com/CameronCSS/Retail_Profit_Predictions/tree/master/README.md)
+> ### SLC Police Cases 2011-2014
+> #### Analyzed police case data to identify crime trends, extract insights, and provide recommendations for managing high-crime areas and improving case processing times.
+> [View Project](https://github.com/CameronCSS/SLC-Police-Cases-2011-2014/blob/main/README.md)
 
 ----
 
