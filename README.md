@@ -19,7 +19,7 @@
 
 > [!IMPORTANT] 
 > ## Recent Project
-> ### SLC Police Cases 2011-2014
+> ### SLC Police Cases 2010-2014
 > #### Analyzed police case data to identify crime trends, extract insights, and provide recommendations for managing high-crime areas and improving case processing times.
 > [View Project](https://github.com/CameronCSS/SLC-Police-Cases-2010-2014/blob/main/README.md)
 
