@@ -19,9 +19,11 @@
 
 > [!IMPORTANT] 
 > ## Recent Project
-> ### SLC Police Cases 2010-2014
-> #### Analyzed police case data to identify crime trends, extract insights, and provide recommendations for managing high-crime areas and improving case processing times.
-> [View Project](https://github.com/CameronCSS/SLC-Police-Cases-2010-2014/blob/main/README.md)
+> ### Customer Purchase Behavior Analysis
+> #### An in-depth behavior analysis to identify key insights on customer behavior, product performance, and sales trends.
+> > #### The recommendations derived from this analysis will help optimize marketing efforts, enhance customer engagement, and drive sales growth in the company's electronics category.
+> [View Project](https://github.com/CameronCSS/Customer-Purchase-Behavior-Analysis/blob/main/README.md)
+
 
 ----
 
