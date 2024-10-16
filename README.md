@@ -59,7 +59,7 @@
 |🖥️ Free Datasets Resource | [View the list](https://camdoesdata.com/resources.html)|
 |📈 Graph DOs and DONTs| [View article](https://www.linkedin.com/feed/update/urn:li:activity:7064663920539537409/)|
 |🔤 REGEXP SQL Basics| [Part 1](https://www.linkedin.com/feed/update/urn:li:activity:7057360246314340352/) - [Part 2](https://www.linkedin.com/feed/update/urn:li:activity:7057712477089771521/)|
-|📝 My Data Blog| [View Blog](https://camdoesdata.notion.site/Welcome-to-my-Data-blog-72418b9480c24b758e503b8498052611)|
+|📝 My Data Blog| [View Blog](https://camdoesdata.substack.com/)|
 
 <h5><em>These are just some of the resources I have provided for other Data Nerds wanting to break into the world of Data.</em></h5>
 
