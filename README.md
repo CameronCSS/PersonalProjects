@@ -17,18 +17,17 @@
 </div>
 
 
-> [!IMPORTANT] 
-> ## Recent Project
-> ### Customer Purchase Behavior Analysis
-> #### An in-depth behavior analysis to identify key insights on customer behavior, product performance, and sales trends.
-> > #### The recommendations derived from this analysis will help optimize marketing efforts, enhance customer engagement, and drive sales growth in the company's electronics category.
-> [View Project](https://github.com/CameronCSS/Customer-Purchase-Behavior-Analysis/blob/main/README.md)
+> [!IMPORTANT]
+> ## 🌟Customer Purchase Behavior Analysis
+> An in-depth behavior analysis using Python to identify key insights on customer behavior, product performance, and sales trends.
+> 
+> -> [View Project](https://github.com/CameronCSS/Customer-Purchase-Behavior-Analysis/blob/main/README.md)
 
 
 ----
 
 <details open>
-    <summary>Table of Contents</summary>
+    <summary>TABLE OF CONTENTS</summary>
     <ul>
             <ul>
                 <li><a href="#Guides">Analyst Guides / Articles</a></li>
@@ -48,22 +47,21 @@
 
 ----
 <a name="Guides"></a>
-<h3>⏬ Guides and Articles for Data Analysts ⏬</h3>
 
+### ⏬ **Resources for Aspiring Analysts** ⏬
 
+| 📝 **Resource**                | 🔗 **Links**                                                          |
+|-------------------------------|----------------------------------------------------------------------|
+| 🎨 **Dashboard Color Guide**   | [View Guide](https://www.linkedin.com/feed/update/urn:li:activity:7060457908592939008/) |
+| 📊 **Dashboard Color App**     | [Try the App](https://cloud.squirrel365.io/viewer/EE95D322FE4B4278B870DE8D06B316D2)    |
+| 🖥️ **Free Datasets List**  | [View the list](https://camdoesdata.com/resources.html)              |
+| 📈 **Graph DOs and DONTs**     | [View Article](https://www.linkedin.com/feed/update/urn:li:activity:7064663920539537409/) |
+| 🔤 **REGEXP SQL Basics**       | [Part 1](https://www.linkedin.com/feed/update/urn:li:activity:7057360246314340352/) - [Part 2](https://www.linkedin.com/feed/update/urn:li:activity:7057712477089771521/) |
+| 📝 **My Data Blog**            | [View Blog](https://substack.com/@camdoesdata)                       |
+  
+---
+Find me on [LinkedIn](https://www.linkedin.com/in/cameron-css) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/cameron-css)
 
-|Guides|Project Links|
-|---|---|
-|🎨 Dashboard Color Guide | [View Guide](https://www.linkedin.com/feed/update/urn:li:activity:7060457908592939008/)|
-|📊 Dashboard Color App| [Try the App](https://cloud.squirrel365.io/viewer/EE95D322FE4B4278B870DE8D06B316D2)|
-|🖥️ Free Datasets Resource | [View the list](https://camdoesdata.com/resources.html)|
-|📈 Graph DOs and DONTs| [View article](https://www.linkedin.com/feed/update/urn:li:activity:7064663920539537409/)|
-|🔤 REGEXP SQL Basics| [Part 1](https://www.linkedin.com/feed/update/urn:li:activity:7057360246314340352/) - [Part 2](https://www.linkedin.com/feed/update/urn:li:activity:7057712477089771521/)|
-|📝 My Data Blog| [View Blog](https://substack.com/@camdoesdata)|
-
-<h5><em>These are just some of the resources I have provided for other Data Nerds wanting to break into the world of Data.</em></h5>
-
-Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -72,17 +70,18 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css)
 
   
  <a name="Python"></a>  
-# Python
-
+# <img src="https://images.ctfassets.net/em6l9zw4tzag/oVfiswjNH7DuCb7qGEBPK/b391db3a1d0d3290b96ce7f6aacb32b0/python.png" alt="Python" width="40"/> **Python**
 
 :ballot_box_with_check: Data cleaning and Exploring using pandas
-<br> :ballot_box_with_check: pandas, matplotlib, plotly graphing and data visualization
-<br> :ballot_box_with_check: Running code chunks in Jupyter, Kaggle, VS code Notebooks
-<br> :ballot_box_with_check: Built out a few simple programs in Python through Self Learning
+<br> :ballot_box_with_check: Experienced with pandas, matplotlib, plotly for graphing and data visualization
+<br> :ballot_box_with_check: Running and testing code chunks in Jupyter, Kaggle, VS code Notebooks
+<br> :ballot_box_with_check: Variety of Python projects, including web scraping, data analysis, machine learning, and web apps
 <br> :ballot_box_with_check: Coursera 'Programming for everybody' [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GS3TAMF6TUN6)
 
 | Project Link |Platform| Libraries | Project Description | 
 |---|---|---|---|
+|[💯 100 Days of Python](https://github.com/CameronCSS/100_Days_of_Python)|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiowMFMmnJu9VHHs4k6JHlVyWlbmavqf4HFQ&s" alt="Udemy" height="20"><img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25">|Udemy, Python, Pandas, VS Code|Master the Python programming language by building 100 unique projects over 100 days.|
+|[🐍 Classic Snake Game](https://github.com/CameronCSS/100_Days_of_Python/blob/main/snake/README.md)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25">|Python, VS Code, OOP|A remake of the classic Snake game made in Python|
 |[🛒 Customer Purchase Behavior Analysis](https://github.com/CameronCSS/Customer-Purchase-Behavior-Analysis/blob/main/README.md)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25">|Python, Pandas, Jupyter Notebook|An in-depth behavior analysis to identify key insights on customer behavior, product performance, and sales trends.|
 |[👮 SLC Police Cases 2011-2014](https://github.com/CameronCSS/SLC-Police-Cases-2011-2014/blob/main/README.md)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25">|Python, Pandas, Jupyter Notebook, Tableau|Analyzed police case data to identify and understand crime trends over time and across different locations in Salt Lake City|
 |[🤑 Retail Profit Predictions](https://github.com/CameronCSS/Retail_Profit_Predictions/blob/master/README.md)|<img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25">|Python, Pandas, Prophet, Jupyter Notebook |performed data cleaning, processed the data for prediction models, and evaluated predictions using both Prophet and Linear Regression.|
@@ -112,14 +111,16 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css)
 ---
 
 <a name="SQL-Queries"></a>
-# SQL Queries
+# <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40"/> **SQL**
 
 	
 :ballot_box_with_check: Data cleaning and data exploring
-<br> :ballot_box_with_check: Experienced with Syntax in MS SQL, PostgreSQL, MySQL
+<br> :ballot_box_with_check: Experienced with Syntax in MS SQL, PostgreSQL, MySQL, and SQLite
+<br> :ballot_box_with_check: CTEs, CASE WHEN, Advanced SQL subqueries
 <br> :ballot_box_with_check: Google data analytics professional certificate
- <br> :ballot_box_with_check: Completed Khan Academy - Intro to SQL Course
- <br> :ballot_box_with_check: CTEs, CASE WHEN, Advanced SQL subqueries
+> [!NOTE]
+> <br> :ballot_box_with_check: 📺 Advanced SQL skills on display on my [YouTube Channel](https://www.youtube.com/@CamDoesData)
+
 	
 | Project Link | Area of Study | Project Description | 
 |---|---|---|
@@ -134,8 +135,8 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css)
 
 ---
   
- <a name="Power-Bi"></a>  
-# Power BI
+ <a name="Power-Bi"></a>   
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="Excel" width="40"/> **Power BI**
 
 
 :ballot_box_with_check: Experience in building live dashboards
@@ -159,7 +160,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css)
 ---
   
  <a name="Tableau"></a>  
-# Tableau
+# <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="40"/> **Tableau**
 
 
 :ballot_box_with_check: Experience in building live dashboards
@@ -183,11 +184,8 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css)
 
 
 ---
-<a name="Data-Programming"></a>
-# Programming Languages
----
 <a name="Excel"></a>
-# Excel
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40"/> **Excel**
 
 	
 :ballot_box_with_check: Experience in cleaning data both for projects and real world data sets
@@ -210,7 +208,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css)
 ---
   
  <a name="data-script"></a>  
-# Javascript
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" width="40"/> **Javascript** 
 
 	
 :ballot_box_with_check: learning how to call sripts within HTML
@@ -235,7 +233,7 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/cameron-css)
 ---
   
  <a name="R"></a>  
-# R
+# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" width="40"/> **R** 
 
 
 :ballot_box_with_check: Data cleaning and visualization
