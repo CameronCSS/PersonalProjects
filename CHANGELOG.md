@@ -5,6 +5,20 @@
 *'Because I want to develop good habits of commenting on my code'*
 <hr>
 
+## v1.0.5 ```2024-11-06```
+
+### Added or Changed
+- Updated projects list
+- Added better visuals and styling throughout
+- Updated and added github pages theme to display project portfolio
+
+### Removed
+- N/A
+
+### Issues
+
+- N/A
+
 ## v1.0.4 ```2024-08-19```
 
 ### Added or Changed
