@@ -109,6 +109,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/cameron-css) [<img src="https:
 
 ---
 
+
 <a name="SQL-Queries"></a>
 # <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40"/> **SQL**
 
