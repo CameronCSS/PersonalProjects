@@ -209,9 +209,9 @@ td {
 
 /* Wrapper */
 .wrapper {
-  width: 100%;  /* Make it take up the full width */
-  max-width: 1200px;  /* Optional: Set a max width to avoid it getting too large */
-  margin: 0 auto;  /* Center the content */
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 
@@ -323,7 +323,7 @@ a.buttons:hover {
 /* Section - for main page content */
 
 section {
-  width: 80%; 
+  width: 75%; 
   float: right;
   padding-bottom: 50px;
 }
