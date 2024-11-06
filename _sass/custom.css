@@ -1,12 +1,12 @@
 .wrapper {
-  width: 100%;  /* Make it take up the full width */
-  max-width: 1200px;  /* Optional: Set a max width to avoid it getting too large */
-  margin: 0 auto;  /* Center the content */
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto; 
 }
 
 
 section {
-  width: 80%;  /* Make it 75% of the container width (adjust as needed) */
+  width: 80%;
   float: right;
   padding-bottom: 50px;
 }
