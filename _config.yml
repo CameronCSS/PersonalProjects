@@ -2,5 +2,5 @@ remote_theme: minimal-mistakes-jekyll
 plugins:
 - jekyll-remote-theme
 
-title: 
+title: Data and Programming Projects
 description: [This is a portfolio showcasing my data and programming projects since 2022.]
