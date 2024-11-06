@@ -1,0 +1,20 @@
+@import "rouge-github";
+@import url('https://fonts.googleapis.com/css?family=Arvo:400,700,400italic');
+
+
+/* Custom CSS for wider layout */
+.container {
+  max-width: 90%;  /* Adjust this to your desired width */
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Optional: Full-width header and footer */
+header, footer {
+  width: 100%;
+}
+
+/* Adjust padding and margins for content */
+.content {
+  margin: 0 5%;  /* Add some spacing on both sides */
+}
