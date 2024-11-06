@@ -39,7 +39,6 @@
                 <li><a href="#data-script">Javascript</a></li>
 		<li><a href="#R">R</a></li>
             </ul>
-        </li>
     </ul>
 </details>
 
@@ -72,11 +71,11 @@ Find me on [LinkedIn](https://www.linkedin.com/in/cameron-css) [<img src="https:
  <a name="Python"></a>  
 # <img src="https://images.ctfassets.net/em6l9zw4tzag/oVfiswjNH7DuCb7qGEBPK/b391db3a1d0d3290b96ce7f6aacb32b0/python.png" alt="Python" width="40"/> **Python**
 
-:ballot_box_with_check: Data cleaning and Exploring using pandas
-<br> :ballot_box_with_check: Experienced with pandas, matplotlib, plotly for graphing and data visualization
-<br> :ballot_box_with_check: Running and testing code chunks in Jupyter, Kaggle, VS code Notebooks
-<br> :ballot_box_with_check: Variety of Python projects, including web scraping, data analysis, machine learning, and web apps
-<br> :ballot_box_with_check: Coursera 'Programming for everybody' [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GS3TAMF6TUN6)
+☑️ Data cleaning and Exploring using pandas
+<br> ☑️ Experienced with pandas, matplotlib, plotly for graphing and data visualization
+<br> ☑️ Running and testing code chunks in Jupyter, Kaggle, VS code Notebooks
+<br> ☑️ Variety of Python projects, including web scraping, data analysis, machine learning, and web apps
+<br> ☑️ Coursera 'Programming for everybody' [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GS3TAMF6TUN6)
 
 | Project Link |Platform| Libraries | Project Description | 
 |---|---|---|---|
@@ -114,12 +113,12 @@ Find me on [LinkedIn](https://www.linkedin.com/in/cameron-css) [<img src="https:
 # <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40"/> **SQL**
 
 	
-:ballot_box_with_check: Data cleaning and data exploring
-<br> :ballot_box_with_check: Experienced with Syntax in MS SQL, PostgreSQL, MySQL, and SQLite
-<br> :ballot_box_with_check: CTEs, CASE WHEN, Advanced SQL subqueries
-<br> :ballot_box_with_check: Google data analytics professional certificate
+☑️ Data cleaning and data exploring
+<br> ☑️ Experienced with Syntax in MS SQL, PostgreSQL, MySQL, and SQLite
+<br> ☑️ CTEs, CASE WHEN, Advanced SQL subqueries
+<br> ☑️ Google data analytics professional certificate
 > [!NOTE]
-> <br> :ballot_box_with_check: 📺 Advanced SQL skills on display on my [YouTube Channel](https://www.youtube.com/@CamDoesData)
+> <br> ☑️ 📺 Advanced SQL skills on display on my [YouTube Channel](https://www.youtube.com/@CamDoesData)
 
 	
 | Project Link | Area of Study | Project Description | 
@@ -139,10 +138,10 @@ Find me on [LinkedIn](https://www.linkedin.com/in/cameron-css) [<img src="https:
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" alt="Excel" width="40"/> **Power BI**
 
 
-:ballot_box_with_check: Experience in building live dashboards
- <br> :ballot_box_with_check: Knowledge in using various dataflow and import methods to showcase live data
- <br> :ballot_box_with_check: Developed reports for company management showcasing sales performance over the last four years.
- <br> :ballot_box_with_check: Completed the DataCamp Intro to Power BI course
+☑️ Experience in building live dashboards
+ <br> ☑️ Knowledge in using various dataflow and import methods to showcase live data
+ <br> ☑️ Developed reports for company management showcasing sales performance over the last four years.
+ <br> ☑️ Completed the DataCamp Intro to Power BI course
 
 | Project Link | Area of Study | Project Description | Dashboard Link |
 |---|---|---|---|
@@ -163,10 +162,10 @@ Find me on [LinkedIn](https://www.linkedin.com/in/cameron-css) [<img src="https:
 # <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="40"/> **Tableau**
 
 
-:ballot_box_with_check: Experience in building live dashboards
- <br> :ballot_box_with_check: Knowledge in using various dataflow and import methods to showcase live data
- <br> :ballot_box_with_check: Developed reports for company management showcasing sales performance over the last four years.
- <br> :ballot_box_with_check: Create custom measures and integrate with graphics
+☑️ Experience in building live dashboards
+ <br> ☑️ Knowledge in using various dataflow and import methods to showcase live data
+ <br> ☑️ Developed reports for company management showcasing sales performance over the last four years.
+ <br> ☑️ Create custom measures and integrate with graphics
 
 | Project Link | Area of Study | Project Description | Dashboard Link |
 |---|---|---|---|
@@ -188,11 +187,11 @@ Find me on [LinkedIn](https://www.linkedin.com/in/cameron-css) [<img src="https:
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40"/> **Excel**
 
 	
-:ballot_box_with_check: Experience in cleaning data both for projects and real world data sets
- <br> :ballot_box_with_check: Knowledge in DAX and using custom formulas to alter data
-  <br> :ballot_box_with_check: Using VLOOKUP, HLOOKUP, and XLOOKUP to quickly alter and organize data
- <br> :ballot_box_with_check: Understanding of Pivot Tables and their importance to displaying insights
- <br> :ballot_box_with_check: Completed the Linkedin Excel assessment and Excel to SQL certification
+☑️ Experience in cleaning data both for projects and real world data sets
+ <br> ☑️ Knowledge in DAX and using custom formulas to alter data
+  <br> ☑️ Using VLOOKUP, HLOOKUP, and XLOOKUP to quickly alter and organize data
+ <br> ☑️ Understanding of Pivot Tables and their importance to displaying insights
+ <br> ☑️ Completed the Linkedin Excel assessment and Excel to SQL certification
 
 | Project Link | Area of Study | Project Description | 
 |---|---|---|
@@ -211,10 +210,10 @@ Find me on [LinkedIn](https://www.linkedin.com/in/cameron-css) [<img src="https:
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript" width="40"/> **Javascript** 
 
 	
-:ballot_box_with_check: learning how to call sripts within HTML
-<br> :ballot_box_with_check: learn coding structure and importance of personal documentation
-<br> :ballot_box_with_check: Built out a few simple personal projects and websites
-<br> :ballot_box_with_check: Using APIs and RSS feeds to call live information
+☑️ learning how to call sripts within HTML
+<br> ☑️ learn coding structure and importance of personal documentation
+<br> ☑️ Built out a few simple personal projects and websites
+<br> ☑️ Using APIs and RSS feeds to call live information
 
 
 | Project Link |Platform| Project Description | 
@@ -236,9 +235,9 @@ Find me on [LinkedIn](https://www.linkedin.com/in/cameron-css) [<img src="https:
 # <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R" width="40"/> **R** 
 
 
-:ballot_box_with_check: Data cleaning and visualization
-<br> :ballot_box_with_check: ggplot graphing and data visualization
-<br> :ballot_box_with_check: Built out a few simple automated scripts through Self Learning
+☑️ Data cleaning and visualization
+<br> ☑️ ggplot graphing and data visualization
+<br> ☑️ Built out a few simple automated scripts through Self Learning
 
 
 | Project Link |Platform| Libraries | Project Description | 
