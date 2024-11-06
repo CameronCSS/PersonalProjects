@@ -1,7 +1,7 @@
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: pages-themes/primer@v0.2.0
 plugins:
 - jekyll-remote-theme
 
 
-title: Cam Does Data
+title: Cameron S. - Analytics Engineer
 description: [Portfolio showcasing my data and programming projects since 2022.]
