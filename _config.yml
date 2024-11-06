@@ -2,5 +2,5 @@ remote_theme: minimal-mistakes-jekyll
 plugins:
 - jekyll-remote-theme
 
-title: NOTE
+title: 👋 Welcome to My Github Portfolio
 description: [This is a portfolio showcasing my data and programming projects since 2022.]
