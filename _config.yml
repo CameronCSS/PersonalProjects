@@ -4,4 +4,6 @@ plugins:
 - jekyll-include-cache
 
 title: Data and Programming Projects
-description: [This is a portfolio showcasing my data and programming projects since 2022.]
+description: This is a portfolio showcasing my data and programming projects since 2022.
+
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
