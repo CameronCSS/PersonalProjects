@@ -3,15 +3,27 @@
 
 @import "{{ site.theme }}";
 
+.main-content {
+  word-wrap: break-word;
 
-section {
-  width: 100%; 
-  padding-bottom: 50px;
-  margin: auto;
-}
+  :first-child {
+    margin-top: 0;
+  }
 
-.wrapper {
-  width: 100%;
-  max-width: 1200px; 
-  margin: auto; 
+  @include large {
+    max-width: 80rem; /* Increase max-width to make content wider */
+    padding: 2rem 8rem; /* Increase padding to create more space on the sides */
+    margin: 0 auto;
+    font-size: 1.1rem;
+  }
+
+  @include medium {
+    padding: 2rem 6rem;
+    font-size: 1.1rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+    font-size: 1rem;
+  }
 }
