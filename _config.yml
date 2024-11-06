@@ -1,3 +1,6 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+title: [Cameron Seamons Portfolio]
+description: [This is a full project portfolio of almost every single thing I have done since I started my data journey in 2022. Some Data projects, some programming projects, and everything inbetween.]
