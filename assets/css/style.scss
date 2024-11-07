@@ -9,3 +9,28 @@
   padding: 20px 10px;
   margin: 0 auto;
 }
+
+/* Make tables responsive */
+table {
+  border: 1px solid #373737;
+  margin-bottom: 20px;
+  text-align: left;
+  width: 100%;
+  display: block;
+  overflow-x: auto; /* Allows horizontal scrolling on mobile */
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+}
+
+/* Ensure cells wrap content when possible */
+td, th {
+  padding: 10px;
+  word-wrap: break-word;
+  min-width: 100px; /* Prevents cells from becoming too narrow */
+  max-width: 400px; /* Prevents single cell from taking too much space */
+}
+
+@media screen and (max-width: 480px) {
+  td, th {
+    padding: 8px;
+  }
+}
