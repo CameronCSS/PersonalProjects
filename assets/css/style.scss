@@ -12,7 +12,9 @@
 
 /* Make tables responsive */
 table {
+  margin-bottom: 10px;
+  text-align: left;
+  width: 100%;
   overflow-x: auto; /* Allows horizontal scrolling on mobile */
   -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
-  border-collapse: collapse;
 }
