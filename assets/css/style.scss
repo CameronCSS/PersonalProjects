@@ -16,7 +16,6 @@
 
 /* Wrap the table in a container to enable scrollable table */
 .table-container {
-  width: 100%;              /* or max-width: 100% depending on your layout */
   overflow-x: auto;         /* Enable horizontal scrolling */
   -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
   margin-bottom: 10px;
@@ -25,6 +24,5 @@
 /* Style the table */
 table {
   width: 100%;
-  min-width: 600px;  /* Optional: Set a minimum width for the table */
   text-align: left;
 }
