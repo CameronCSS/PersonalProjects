@@ -8,9 +8,15 @@
 }
 
 @media (max-width: 768px) {
-  .container { 
+  .container {
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
   }
+
+  .inner {
+  max-width: 80%;
+}
+
 }
