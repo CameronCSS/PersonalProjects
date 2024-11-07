@@ -78,7 +78,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/cameron-css) [<img src="https:
 <br> ☑️ Coursera 'Programming for everybody' [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GS3TAMF6TUN6)
 Certainly! Here is the table with the "Libraries" column removed:
 
-| Project Link | Platform | Project Description |
+| Project Link | Technology Used | Project Description |
 |---|---|---|
 | [💯 100 Days of Python](https://github.com/CameronCSS/100_Days_of_Python) | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiowMFMmnJu9VHHs4k6JHlVyWlbmavqf4HFQ&s" alt="Udemy" height="20"><img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"> | Master the Python programming language by building 100 unique projects over 100 days. |
 | [🐍 Classic Snake Game](https://github.com/CameronCSS/100_Days_of_Python/blob/main/snake/README.md) | <img src="https://github.com/CameronCSS/PersonalProjects/assets/121735588/e643b850-31b6-4a50-9aba-0ac21f24b61f" alt="Logo" height="20"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="25"> | A remake of the classic Snake game made in Python. |
