@@ -18,6 +18,7 @@ table {
   display: block;
   overflow-x: auto; /* Allows horizontal scrolling on mobile */
   -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+  border-collapse: collapse;
 }
 
 /* Ensure cells wrap content when possible */
