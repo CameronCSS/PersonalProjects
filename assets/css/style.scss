@@ -12,8 +12,7 @@
 
 /* Make tables responsive */
 table {
-  border: 1px solid #373737;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   text-align: left;
   width: 100%;
   display: block;
@@ -23,7 +22,7 @@ table {
 
 /* Ensure cells wrap content when possible */
 td, th {
-  padding: 10px;
+  padding: 5px;
   word-wrap: break-word;
   min-width: 100px; /* Prevents cells from becoming too narrow */
   max-width: 400px; /* Prevents single cell from taking too much space */
