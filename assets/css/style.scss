@@ -7,3 +7,10 @@
   max-width: 80%;
 }
 
+@media (max-width: 768px) {
+  .container { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
