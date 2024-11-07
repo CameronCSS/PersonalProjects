@@ -4,3 +4,43 @@
 
 @import "{{ site.theme }}";
 
+.outer {
+  width: 100%;
+}
+
+.inner {
+  position: relative;
+  max-width: 640px;
+  padding: 20px 10px;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
+@media screen and (max-width: 480px) {
+  body {
+    font-size: 14px;
+  }
+
+  #downloads {
+    display: none;
+  }
+
+  .inner {
+    width: 100%;
+    min-width: unset;
+    max-width: 100%;
+    padding: 15px;
+  }
+
+
+}
+
+@media screen and (max-width: 320px) {
+  .inner {
+    width: 100%;
+    min-width: unset;
+    max-width: 100%;
+    padding: 10px;
+  }
