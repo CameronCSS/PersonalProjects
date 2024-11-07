@@ -28,9 +28,3 @@ td, th {
   min-width: 100px; /* Prevents cells from becoming too narrow */
   max-width: 400px; /* Prevents single cell from taking too much space */
 }
-
-@media screen and (max-width: 480px) {
-  td, th {
-    padding: 8px;
-  }
-}
