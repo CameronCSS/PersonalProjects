@@ -8,31 +8,22 @@
 }
 
 @media (max-width: 768px) {
-
-.inner {
-  max-width: 100%;
-}
-
-
-    img {
+  .inner {
     max-width: 100%;
   }
 
+  img {
+    max-width: 100%;
+  }
 }
-
 
 @media screen and (max-width: 320px) {
-
   .inner {
-  max-width: 100%;
-}
-
-
-    img {
     max-width: 100%;
   }
 
+  img {
+    max-width: 100%;
+  }
 }
 
-
-}
