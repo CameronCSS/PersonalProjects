@@ -17,8 +17,7 @@
 </div>
 
 
-# 📌 LATEST PROJECT 
-## 🌟Customer Purchase Behavior Analysis
+# 📌 Customer Purchase Behavior Analysis
 An in-depth behavior analysis using Python to identify key insights on customer behavior, product performance, and sales trends.
 
 > -> [View Project](https://github.com/CameronCSS/Customer-Purchase-Behavior-Analysis/blob/main/README.md)
