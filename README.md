@@ -189,7 +189,7 @@ Here's your table with the "Area of Study" column removed:
 
 ---
 <a name="Excel"></a>
-# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/826px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40"/> **Excel**
+# <img src="https://github.com/user-attachments/assets/d324c00b-fdc3-426c-a020-d78d8c0f1be0" alt="Excel" width="40"/> **Excel**
 
 	
 ☑️ Experience in cleaning data both for projects and real world data sets
