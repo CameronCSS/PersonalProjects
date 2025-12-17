@@ -61,7 +61,7 @@
 <br> ☑️ Running and testing code chunks in Jupyter, Kaggle, VS code Notebooks
 <br> ☑️ Variety of Python projects, including web scraping, data analysis, machine learning, and web apps
 <br> ☑️ Coursera 'Programming for everybody' [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/GS3TAMF6TUN6)
-Certainly! Here is the table with the "Libraries" column removed:
+
 
 | Project Link | Technology | Project Description |
 |---|---|---|
@@ -156,7 +156,6 @@ Here's your table with the "Area of Study" column removed:
  <br> ☑️ Developed reports for company management showcasing sales performance over the last four years.
  <br> ☑️ Create custom measures and integrate with graphics
 
-Here's your table with the "Area of Study" column removed:
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
