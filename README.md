@@ -19,7 +19,6 @@
 | 🖥️ **Free Datasets List**  | [View the list](https://camdoesdata.com/resources.html)              |
 | 📈 **Graph DOs and DONTs**     | [View Article](https://www.linkedin.com/feed/update/urn:li:activity:7064663920539537409/) |
 | 🔤 **REGEXP SQL Basics**       | [Part 1](https://www.linkedin.com/feed/update/urn:li:activity:7057360246314340352/) - [Part 2](https://www.linkedin.com/feed/update/urn:li:activity:7057712477089771521/) |
-| 📝 **My Data Blog**            | [View Blog](https://substack.com/@camdoesdata)                       |
   
 ---
 
