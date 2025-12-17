@@ -6,9 +6,6 @@
 
 > 📈 Digesting data nuggets since 2022
 
-Find me on [LinkedIn](https://www.linkedin.com/in/cameron-css) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/cameron-css)
-
-
 
 ----
 <a name="Guides"></a>
