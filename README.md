@@ -4,7 +4,7 @@
 # 📑 Cameron Seamons  
 ### 🛠️ Data Engineer
 
-> 📈 Digesting data nuggets since 2022
+> 📈 Digesting data nuggets since 2020
 
 
 ----
