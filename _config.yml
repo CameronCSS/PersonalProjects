@@ -1,3 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+
+title: 👋 Welcome to my <code>Data Portfolio</code>
+description: [Showcasing all my Projects since 2022]
