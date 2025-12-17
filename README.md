@@ -130,7 +130,7 @@
  <br> ☑️ Developed reports for company management showcasing sales performance over the last four years.
  <br> ☑️ Completed the DataCamp Intro to Power BI course
 
-Here's your table with the "Area of Study" column removed:
+
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
