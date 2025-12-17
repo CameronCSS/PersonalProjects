@@ -1,23 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-
-<h3 align="center">
-  👋 Welcome to my <code>Data Portfolio</code>
-</h3>
-
-
-  
-
-
-<sub><a href="https://camdoesdata.com/#contact">Contact Me</a></sub>
-
-  <a name="readme-top"></a>
-
-<br>
-
-</div>
 
 # 📑 Cameron Seamons  
 ### 🛠️ Data Engineer
