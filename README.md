@@ -3,8 +3,11 @@
 <div align="center">
 
 
+<h3 align="center">
+  👋 Welcome to my <code>Data Portfolio</code>
+</h3>
 
-  <h3 align="center">👋 Welcome to My Github Portfolio</h3>
+
   
 
 
@@ -16,30 +19,12 @@
 
 </div>
 
+# 📑 Cameron Seamons  
+### 🛠️ Data Engineer
 
-# 📌 Customer Purchase Behavior Analysis
-An in-depth behavior analysis using Python to identify key insights on customer behavior, product performance, and sales trends.
+> 📈 Digesting data nuggets since 2022
 
-> -> [View Project](https://github.com/CameronCSS/Customer-Purchase-Behavior-Analysis/blob/main/README.md)
-
-
-----
-
-<details open>
-    <summary>TABLE OF CONTENTS</summary>
-    <ul>
-            <ul>
-                <li><a href="#Guides">Analyst Guides / Articles</a></li>
-                <li><a href="#Python">Python</a></li>
-                <li><a href="#SQL-Queries">SQL</a></li>
-                <li><a href="#Power-Bi">Power BI</a></li>
-                <li><a href="#Tableau">Tableau</a></li>
-		<li><a href="#Excel">Excel</a></li>
-                <li><a href="#data-script">Javascript</a></li>
-		<li><a href="#R">R</a></li>
-            </ul>
-    </ul>
-</details>
+Find me on [LinkedIn](https://www.linkedin.com/in/cameron-css) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/cameron-css)
 
 
 
@@ -58,14 +43,36 @@ An in-depth behavior analysis using Python to identify key insights on customer 
 | 📝 **My Data Blog**            | [View Blog](https://substack.com/@camdoesdata)                       |
   
 ---
-Find me on [LinkedIn](https://www.linkedin.com/in/cameron-css) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/cameron-css)
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-----
+---
 
+# 📊 Data Projects
+
+
+> [!IMPORTANT] 
+> 🛑 Projects are grouped by tool
+> 
+> Use the <code>Table of Contents</code> to navigate
+
+
+<details open>
+    <summary>TABLE OF CONTENTS</summary>
+    <ul>
+                <li><a href="#Python">Python</a></li>
+                <li><a href="#SQL-Queries">SQL</a></li>
+                <li><a href="#Power-Bi">Power BI</a></li>
+                <li><a href="#Tableau">Tableau</a></li>
+		<li><a href="#Excel">Excel</a></li>
+                <li><a href="#data-script">Javascript</a></li>
+		<li><a href="#R">R</a></li>
+    </ul>
+</details>
+
+---
   
  <a name="Python"></a>  
 # <img src="https://images.ctfassets.net/em6l9zw4tzag/oVfiswjNH7DuCb7qGEBPK/b391db3a1d0d3290b96ce7f6aacb32b0/python.png" alt="Python" width="40"/> **Python**
