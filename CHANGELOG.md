@@ -5,6 +5,21 @@
 *'Because I want to develop good habits of commenting on my code'*
 <hr>
 
+## v1.0.6 ```2025-12-22```
+
+### Added or Changed
+- Updated projects list
+- Updated page theme
+- Changed title
+- Moved Top sections around to clean up the overall look
+
+### Removed
+- Removed a few lines of random copy/paste that shouldnt be there
+
+### Issues
+
+- N/A
+
 ## v1.0.5 ```2024-11-06```
 
 ### Added or Changed
